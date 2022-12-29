@@ -1,0 +1,1593 @@
+dateTime,country,profile,age,gender,referral,pageviews,purchased,purchaseAmount
+2014-08-29 03:34,Australia,Friend/family friend,25-34,Female,Unbranded Search,9,0,0
+2014-09-10 09:03,United States,Friend/family friend,25-34,Female,Unbranded Search,7,0,0
+2014-08-13 22:43,United States,Friend/family friend,35-44,Female,Social,3,0,0
+2014-09-05 12:37,United States,Friend/family friend,35-44,Female,Unbranded Search,7,0,0
+2014-08-20 18:29,United States,Friend/family friend,45-54,Female,Unbranded Search,11,0,0
+2014-08-04 02:17,United States,Friend/family friend,55-64,Female,Unbranded Search,11,0,0
+2014-08-01 18:31,United States,Friend/family friend,18-24,NA,Branded Search,12,0,0
+2014-08-02 23:10,United States,Friend/family friend,55-64,NA,Direct,5,0,0
+2014-08-03 12:22,Romania,Friend/family friend,18-24,NA,Social,3,0,0
+2014-08-04 23:25,United States,Friend/family friend,25-34,NA,Social,2,0,0
+2014-08-31 01:11,Australia,Friend/family friend,35-44,NA,Social,5,0,0
+2014-09-11 02:08,United States,Friend/family friend,45-54,NA,Social,2,0,0
+2014-07-27 00:31,United States,Friend/family friend,18-24,NA,Unbranded Search,2,0,0
+2014-08-03 19:54,United States,Friend/family friend,25-34,NA,Unbranded Search,12,0,0
+2014-08-07 14:39,United States,Friend/family friend,35-44,NA,Unbranded Search,12,0,0
+2014-08-10 09:03,United States,Friend/family friend,45-54,NA,Unbranded Search,3,0,0
+2014-08-10 10:23,United States,Friend/family friend,55-64,NA,Unbranded Search,4,0,0
+2014-08-22 15:07,United States,Friend/family friend,18-24,NA,Unbranded Search,12,0,0
+2014-08-25 17:35,United States,Friend/family friend,25-34,NA,Unbranded Search,11,0,0
+2014-09-02 19:33,United States,Friend/family friend,35-44,NA,Unbranded Search,11,0,0
+2014-09-02 22:34,United States,Friend/family friend,45-54,NA,Unbranded Search,10,0,0
+2014-09-08 23:59,United States,Friend/family friend,55-64,NA,Unbranded Search,3,0,0
+2014-09-10 14:51,United Arab Emirates,Friend/family friend,18-24,NA,Unbranded Search,3,0,0
+2014-08-12 15:03,South Africa,Health Professional,18-24,Female,Unbranded Search,3,0,0
+2014-08-19 20:29,United States,Health Professional,18-24,Female,Unbranded Search,11,0,0
+2014-08-29 14:02,United States,Health Professional,18-24,Female,Unbranded Search,4,0,0
+2014-07-30 09:41,United States,Health Professional,25-34,Female,Direct,4,0,0
+2014-08-12 15:07,United States,Health Professional,25-34,Female,Direct,6,1,96.8
+2014-08-13 10:00,United States,Health Professional,25-34,Female,Direct,7,0,0
+2014-09-09 20:38,United States,Health Professional,25-34,Female,Direct,11,0,0
+2014-07-29 13:41,United States,Health Professional,25-34,Female,Referred,10,0,0
+2014-07-28 20:39,United States,Health Professional,25-34,Female,Unbranded Search,7,0,0
+2014-07-29 15:14,United States,Health Professional,25-34,Female,Unbranded Search,3,0,0
+2014-08-01 10:14,United States,Health Professional,25-34,Female,Unbranded Search,12,0,0
+2014-08-02 21:38,United States,Health Professional,25-34,Female,Unbranded Search,5,0,0
+2014-08-06 07:50,United States,Health Professional,25-34,Female,Unbranded Search,9,0,0
+2014-08-07 10:08,United States,Health Professional,25-34,Female,Unbranded Search,11,0,0
+2014-08-11 21:53,United States,Health Professional,25-34,Female,Unbranded Search,12,0,0
+2014-08-12 15:37,United States,Health Professional,25-34,Female,Unbranded Search,4,0,0
+2014-08-13 14:03,United States,Health Professional,25-34,Female,Unbranded Search,4,0,0
+2014-08-19 12:18,United States,Health Professional,25-34,Female,Unbranded Search,10,0,0
+2014-08-20 14:51,United States,Health Professional,25-34,Female,Unbranded Search,4,0,0
+2014-08-21 12:52,United States,Health Professional,25-34,Female,Unbranded Search,11,0,0
+2014-08-24 21:36,United States,Health Professional,25-34,Female,Unbranded Search,9,0,0
+2014-08-27 19:38,United States,Health Professional,25-34,Female,Unbranded Search,1,0,0
+2014-08-28 08:32,United States,Health Professional,25-34,Female,Unbranded Search,2,0,0
+2014-08-28 19:52,United States,Health Professional,25-34,Female,Unbranded Search,9,0,0
+2014-09-02 14:42,United States,Health Professional,25-34,Female,Unbranded Search,9,0,0
+2014-09-03 14:28,United States,Health Professional,25-34,Female,Unbranded Search,8,0,0
+2014-09-05 00:08,Australia,Health Professional,25-34,Female,Unbranded Search,11,0,0
+2014-09-05 10:40,United States,Health Professional,25-34,Female,Unbranded Search,8,0,0
+2014-09-09 10:18,Canada,Health Professional,25-34,Female,Unbranded Search,3,0,0
+2014-09-10 15:40,United States,Health Professional,25-34,Female,Unbranded Search,11,0,0
+2014-08-05 00:38,Australia,Health Professional,35-44,Female,Branded Search,8,1,111.72
+2014-08-25 13:53,United States,Health Professional,35-44,Female,Branded Search,4,0,0
+2014-07-29 21:41,United States,Health Professional,35-44,Female,Direct,10,0,0
+2014-07-30 11:34,United States,Health Professional,35-44,Female,Direct,3,0,0
+2014-08-11 14:12,United States,Health Professional,35-44,Female,Direct,12,1,104
+2014-08-15 19:42,United States,Health Professional,35-44,Female,Direct,4,0,0
+2014-08-18 10:13,United States,Health Professional,35-44,Female,Direct,10,0,0
+2014-08-20 14:21,United States,Health Professional,35-44,Female,Direct,11,1,128.17
+2014-08-20 16:50,United States,Health Professional,35-44,Female,Direct,2,0,0
+2014-08-26 09:06,United States,Health Professional,35-44,Female,Direct,2,0,0
+2014-09-05 10:47,United States,Health Professional,35-44,Female,Direct,6,0,0
+2014-08-25 13:42,United States,Health Professional,35-44,Female,Email,3,0,0
+2014-08-11 22:02,United States,Health Professional,35-44,Female,Social,5,0,0
+2014-08-27 17:58,United States,Health Professional,35-44,Female,Social,2,0,0
+2014-07-28 09:48,United States,Health Professional,35-44,Female,Unbranded Search,10,0,0
+2014-08-04 13:42,United States,Health Professional,35-44,Female,Unbranded Search,10,1,91.4
+2014-08-13 00:07,United States,Health Professional,35-44,Female,Unbranded Search,12,0,0
+2014-08-22 14:45,United States,Health Professional,35-44,Female,Unbranded Search,3,0,0
+2014-08-23 09:15,United States,Health Professional,35-44,Female,Unbranded Search,6,0,0
+2014-08-25 23:17,United States,Health Professional,35-44,Female,Unbranded Search,6,0,0
+2014-08-27 04:02,United States,Health Professional,35-44,Female,Unbranded Search,11,0,0
+2014-09-02 15:45,United States,Health Professional,35-44,Female,Unbranded Search,1,0,0
+2014-09-02 16:00,United States,Health Professional,35-44,Female,Unbranded Search,11,0,0
+2014-09-04 15:52,United States,Health Professional,35-44,Female,Unbranded Search,3,0,0
+2014-09-07 13:35,United States,Health Professional,35-44,Female,Unbranded Search,4,0,0
+2014-09-08 21:07,United States,Health Professional,35-44,Female,Unbranded Search,11,0,0
+2014-09-09 11:14,United States,Health Professional,35-44,Female,Unbranded Search,8,0,0
+2014-09-10 14:32,United States,Health Professional,35-44,Female,Unbranded Search,7,0,0
+2014-08-06 11:55,United States,Health Professional,45-54,Female,Branded Search,4,0,0
+2014-07-29 22:18,United States,Health Professional,45-54,Female,Direct,4,0,0
+2014-07-30 10:43,United States,Health Professional,45-54,Female,Direct,10,0,0
+2014-08-05 19:00,United States,Health Professional,45-54,Female,Direct,9,0,0
+2014-08-08 09:50,Ireland,Health Professional,45-54,Female,Direct,12,0,0
+2014-08-12 00:06,United States,Health Professional,45-54,Female,Direct,10,1,61.72
+2014-08-13 08:59,United States,Health Professional,45-54,Female,Direct,8,0,0
+2014-08-13 10:17,United States,Health Professional,45-54,Female,Direct,11,0,0
+2014-08-13 11:25,United States,Health Professional,45-54,Female,Direct,4,0,0
+2014-08-13 15:05,United States,Health Professional,45-54,Female,Direct,1,0,0
+2014-08-26 16:44,United States,Health Professional,45-54,Female,Direct,3,0,0
+2014-08-27 17:02,United States,Health Professional,45-54,Female,Direct,7,0,0
+2014-09-02 15:51,New Zealand,Health Professional,45-54,Female,Direct,3,0,0
+2014-09-02 17:12,United States,Health Professional,45-54,Female,Direct,5,0,0
+2014-08-13 21:24,Puerto Rico,Health Professional,45-54,Female,Email,10,0,0
+2014-07-31 01:08,United States,Health Professional,45-54,Female,Referred,9,0,0
+2014-08-15 08:15,United States,Health Professional,45-54,Female,Self Referred,3,0,0
+2014-08-02 09:25,United States,Health Professional,45-54,Female,Social,1,0,0
+2014-08-12 22:03,United States,Health Professional,45-54,Female,Social,3,0,0
+2014-07-28 21:35,United States,Health Professional,45-54,Female,Unbranded Search,12,0,0
+2014-08-02 19:53,United States,Health Professional,45-54,Female,Unbranded Search,12,0,0
+2014-08-05 09:16,United States,Health Professional,45-54,Female,Unbranded Search,6,0,0
+2014-08-07 11:33,United States,Health Professional,45-54,Female,Unbranded Search,10,0,0
+2014-08-11 22:26,United States,Health Professional,45-54,Female,Unbranded Search,3,0,0
+2014-08-15 11:08,United States,Health Professional,45-54,Female,Unbranded Search,2,0,0
+2014-08-18 20:25,United States,Health Professional,45-54,Female,Unbranded Search,4,0,0
+2014-08-19 15:49,United States,Health Professional,45-54,Female,Unbranded Search,10,0,0
+2014-08-24 12:16,United States,Health Professional,45-54,Female,Unbranded Search,3,0,0
+2014-08-27 20:36,United States,Health Professional,45-54,Female,Unbranded Search,11,1,124.93
+2014-09-03 12:24,United States,Health Professional,45-54,Female,Unbranded Search,11,0,0
+2014-09-03 15:45,United States,Health Professional,45-54,Female,Unbranded Search,5,0,0
+2014-09-03 16:01,United States,Health Professional,45-54,Female,Unbranded Search,12,0,0
+2014-09-10 13:47,United States,Health Professional,45-54,Female,Unbranded Search,3,0,0
+2014-09-10 16:55,United States,Health Professional,45-54,Female,Unbranded Search,12,0,0
+2014-07-26 05:07,Kuwait,Health Professional,55-64,Female,Direct,12,0,0
+2014-07-29 00:13,United States,Health Professional,55-64,Female,Direct,2,0,0
+2014-07-29 13:47,United States,Health Professional,55-64,Female,Direct,2,0,0
+2014-07-29 23:00,United States,Health Professional,55-64,Female,Direct,8,0,0
+2014-07-30 09:36,United States,Health Professional,55-64,Female,Direct,2,0,0
+2014-07-31 13:45,United States,Health Professional,55-64,Female,Direct,3,0,0
+2014-08-04 20:10,United States,Health Professional,55-64,Female,Direct,7,0,0
+2014-08-13 08:09,United States,Health Professional,55-64,Female,Direct,2,0,0
+2014-08-13 18:15,United States,Health Professional,55-64,Female,Direct,3,0,0
+2014-08-18 11:43,United States,Health Professional,55-64,Female,Direct,4,0,0
+2014-08-22 19:18,United States,Health Professional,55-64,Female,Direct,4,0,0
+2014-08-25 16:44,United States,Health Professional,55-64,Female,Direct,3,0,0
+2014-09-02 19:48,United States,Health Professional,55-64,Female,Direct,7,0,0
+2014-09-04 17:13,United States,Health Professional,55-64,Female,Direct,3,0,0
+2014-09-06 14:06,United States,Health Professional,55-64,Female,Direct,11,1,62.5
+2014-09-08 18:40,United States,Health Professional,55-64,Female,Direct,12,0,0
+2014-09-08 23:32,United States,Health Professional,55-64,Female,Direct,5,0,0
+2014-09-10 19:07,United States,Health Professional,55-64,Female,Direct,5,0,0
+2014-08-19 08:48,United States,Health Professional,55-64,Female,Referred,1,0,0
+2014-08-14 14:16,United States,Health Professional,55-64,Female,Social,3,0,0
+2014-08-15 19:27,United States,Health Professional,55-64,Female,Social,2,0,0
+2014-08-10 17:14,United States,Health Professional,55-64,Female,Unbranded Search,10,0,0
+2014-08-18 19:09,Panama,Health Professional,55-64,Female,Unbranded Search,6,0,0
+2014-08-20 07:21,United States,Health Professional,55-64,Female,Unbranded Search,6,0,0
+2014-08-20 17:01,United States,Health Professional,55-64,Female,Unbranded Search,5,0,0
+2014-08-22 15:07,United States,Health Professional,55-64,Female,Unbranded Search,12,0,0
+2014-09-05 16:37,United States,Health Professional,55-64,Female,Unbranded Search,7,0,0
+2014-09-06 08:35,United States,Health Professional,55-64,Female,Unbranded Search,3,0,0
+2014-08-01 12:06,United States,Health Professional,65 or older,Female,Direct,11,1,112.47
+2014-08-05 10:56,United States,Health Professional,65 or older,Female,Unbranded Search,8,0,0
+2014-09-04 13:56,United States,Health Professional,65 or older,Female,Unbranded Search,3,0,0
+2014-09-09 06:50,United Arab Emirates,Health Professional,Less than 18,Female,Direct,2,0,0
+2014-09-04 06:36,United States,Health Professional,25-34,Female,Unbranded Search,4,0,0
+2014-08-27 13:18,United States,Health Professional,55-64,Female,Unbranded Search,4,0,0
+2014-08-01 14:21,United States,Health Professional,25-34,Male,Direct,10,0,0
+2014-09-01 13:42,United States,Health Professional,35-44,Male,Unbranded Search,10,0,0
+2014-08-28 19:49,United Kingdom,Health Professional,45-54,Male,Unbranded Search,3,0,0
+2014-08-25 13:26,United States,Health Professional,25-34,Female,Direct,1,0,0
+2014-09-10 19:49,United States,Health Professional,35-44,Female,Direct,2,0,0
+2014-08-25 10:28,Malaysia,Health Professional,35-44,Female,Self Referred,10,0,0
+2014-09-03 13:02,United States,Health Professional,18-24,Female,Unbranded Search,2,0,0
+2014-09-10 22:32,United States,Health Professional,35-44,NA,Direct,2,0,0
+2014-08-19 14:17,United States,Health Professional,18-24,NA,Branded Search,3,0,0
+2014-08-03 13:17,United States,Health Professional,25-34,NA,Branded Search,11,0,0
+2014-08-08 13:41,United States,Health Professional,35-44,NA,Branded Search,6,0,0
+2014-08-19 15:21,United States,Health Professional,45-54,NA,Branded Search,8,0,0
+2014-08-21 09:21,United States,Health Professional,55-64,NA,Branded Search,4,0,0
+2014-08-22 11:43,United States,Health Professional,18-24,NA,Branded Search,3,0,0
+2014-08-27 11:12,United States,Health Professional,25-34,NA,Branded Search,5,0,0
+2014-09-02 12:47,United States,Health Professional,35-44,NA,Branded Search,12,0,0
+2014-09-02 17:12,United States,Health Professional,45-54,NA,Branded Search,5,0,0
+2014-09-04 14:46,Canada,Health Professional,55-64,NA,Branded Search,4,0,0
+2014-09-08 11:02,United States,Health Professional,18-24,NA,Branded Search,11,0,0
+2014-09-09 14:30,United States,Health Professional,25-34,NA,Branded Search,10,0,0
+2014-07-29 16:09,United States,Health Professional,18-24,NA,Direct,5,0,0
+2014-07-29 22:05,United States,Health Professional,25-34,NA,Direct,11,0,0
+2014-07-30 14:43,United States,Health Professional,35-44,NA,Direct,2,0,0
+2014-07-30 17:21,United States,Health Professional,45-54,NA,Direct,1,0,0
+2014-07-30 20:34,United States,Health Professional,55-64,NA,Direct,7,0,0
+2014-07-30 21:35,United States,Health Professional,18-24,NA,Direct,11,0,0
+2014-07-31 15:45,United States,Health Professional,25-34,NA,Direct,1,0,0
+2014-08-03 17:12,United States,Health Professional,35-44,NA,Direct,12,0,0
+2014-08-07 12:02,United States,Health Professional,45-54,NA,Direct,3,0,0
+2014-08-09 21:27,Nigeria,Health Professional,55-64,NA,Direct,2,0,0
+2014-08-13 14:01,United States,Health Professional,18-24,NA,Direct,3,0,0
+2014-08-13 15:36,United States,Health Professional,25-34,NA,Direct,2,0,0
+2014-08-14 16:00,United States,Health Professional,35-44,NA,Direct,2,0,0
+2014-08-14 21:25,United States,Health Professional,45-54,NA,Direct,3,0,0
+2014-08-17 20:00,United States,Health Professional,55-64,NA,Direct,4,0,0
+2014-08-18 21:36,United States,Health Professional,18-24,NA,Direct,10,0,0
+2014-08-19 01:38,Australia,Health Professional,25-34,NA,Direct,1,0,0
+2014-08-22 07:27,United States,Health Professional,35-44,NA,Direct,2,0,0
+2014-08-25 15:09,United States,Health Professional,45-54,NA,Direct,8,0,0
+2014-08-26 05:27,Denmark,Health Professional,55-64,NA,Direct,9,0,0
+2014-08-26 10:30,United States,Health Professional,18-24,NA,Direct,5,0,0
+2014-09-03 23:00,United States,Health Professional,25-34,NA,Direct,1,0,0
+2014-09-06 11:44,Mexico,Health Professional,35-44,NA,Direct,3,0,0
+2014-09-07 13:35,Brazil,Health Professional,45-54,NA,Direct,10,0,0
+2014-09-08 14:45,United States,Health Professional,55-64,NA,Direct,12,0,0
+2014-09-08 15:46,United States,Health Professional,18-24,NA,Direct,11,0,0
+2014-09-08 17:04,United States,Health Professional,25-34,NA,Direct,5,0,0
+2014-09-09 12:43,United States,Health Professional,35-44,NA,Direct,10,0,0
+2014-09-09 13:46,United States,Health Professional,45-54,NA,Direct,6,0,0
+2014-09-09 14:47,United States,Health Professional,55-64,NA,Direct,1,0,0
+2014-09-10 11:47,United States,Health Professional,18-24,NA,Direct,3,0,0
+2014-09-10 18:02,United States,Health Professional,25-34,NA,Direct,5,0,0
+2014-09-11 11:53,United States,Health Professional,35-44,NA,Direct,5,0,0
+2014-08-11 21:23,United States,Health Professional,25-34,NA,Email,1,0,0
+2014-08-22 21:09,Trinidad and Tobago,Health Professional,35-44,NA,Paid Search,11,0,0
+2014-08-04 15:09,United States,Health Professional,55-64,NA,Referred,3,0,0
+2014-08-04 20:53,United States,Health Professional,18-24,NA,Referred,3,0,0
+2014-08-05 16:13,United States,Health Professional,25-34,NA,Referred,11,0,0
+2014-08-20 22:53,United States,Health Professional,35-44,NA,Referred,3,0,0
+2014-08-30 12:30,Slovenia,Health Professional,45-54,NA,Referred,3,0,0
+2014-09-03 16:17,United States,Health Professional,55-64,NA,Referred,12,0,0
+2014-09-04 08:57,United States,Health Professional,18-24,NA,Referred,4,0,0
+2014-09-05 17:27,United States,Health Professional,25-34,NA,Referred,4,0,0
+2014-09-09 18:50,United States,Health Professional,35-44,NA,Referred,2,0,0
+2014-07-29 07:39,United States,Health Professional,35-44,NA,Self Referred,1,0,0
+2014-08-07 16:53,Portugal,Health Professional,45-54,NA,Self Referred,2,0,0
+2014-08-11 19:43,United States,Health Professional,55-64,NA,Self Referred,5,0,0
+2014-08-14 22:07,United States,Health Professional,18-24,NA,Self Referred,4,0,0
+2014-08-27 14:47,United States,Health Professional,25-34,NA,Self Referred,12,0,0
+2014-08-29 15:55,Mexico,Health Professional,35-44,NA,Self Referred,11,0,0
+2014-09-05 18:21,United States,Health Professional,45-54,NA,Self Referred,2,0,0
+2014-09-09 14:21,United States,Health Professional,55-64,NA,Self Referred,1,0,0
+2014-09-10 21:16,United States,Health Professional,18-24,NA,Self Referred,10,0,0
+2014-08-02 05:46,United Kingdom,Health Professional,55-64,NA,Social,1,0,0
+2014-08-13 21:00,United States,Health Professional,18-24,NA,Social,4,0,0
+2014-08-16 11:53,Puerto Rico,Health Professional,25-34,NA,Social,3,0,0
+2014-08-16 11:56,Puerto Rico,Health Professional,35-44,NA,Social,3,0,0
+2014-08-26 23:09,United States,Health Professional,45-54,NA,Social,3,0,0
+2014-08-27 11:49,United States,Health Professional,55-64,NA,Social,2,0,0
+2014-08-27 23:16,United States,Health Professional,18-24,NA,Social,4,0,0
+2014-07-28 15:01,United States,Health Professional,25-34,NA,Unbranded Search,4,0,0
+2014-07-28 22:11,Canada,Health Professional,35-44,NA,Unbranded Search,11,0,0
+2014-07-29 11:22,United States,Health Professional,45-54,NA,Unbranded Search,4,0,0
+2014-07-29 14:19,United States,Health Professional,55-64,NA,Unbranded Search,2,0,0
+2014-07-30 07:31,India,Health Professional,18-24,NA,Unbranded Search,3,0,0
+2014-07-30 20:37,United States,Health Professional,25-34,NA,Unbranded Search,10,0,0
+2014-07-30 20:37,United States,Health Professional,35-44,NA,Unbranded Search,6,0,0
+2014-07-31 12:17,United States,Health Professional,45-54,NA,Unbranded Search,6,0,0
+2014-07-31 17:04,United States,Health Professional,55-64,NA,Unbranded Search,12,0,0
+2014-08-04 02:35,United States,Health Professional,18-24,NA,Unbranded Search,7,0,0
+2014-08-04 15:42,United States,Health Professional,25-34,NA,Unbranded Search,11,0,0
+2014-08-05 16:43,United States,Health Professional,35-44,NA,Unbranded Search,4,0,0
+2014-08-06 13:32,United States,Health Professional,45-54,NA,Unbranded Search,10,0,0
+2014-08-06 15:25,United States,Health Professional,55-64,NA,Unbranded Search,12,0,0
+2014-08-08 14:40,United States,Health Professional,18-24,NA,Unbranded Search,6,0,0
+2014-08-08 23:02,United States,Health Professional,25-34,NA,Unbranded Search,6,0,0
+2014-08-09 22:05,United States,Health Professional,35-44,NA,Unbranded Search,11,0,0
+2014-08-11 12:36,United States,Health Professional,45-54,NA,Unbranded Search,11,1,51.91
+2014-08-11 13:35,United States,Health Professional,55-64,NA,Unbranded Search,2,0,0
+2014-08-11 14:05,United States,Health Professional,18-24,NA,Unbranded Search,4,0,0
+2014-08-11 15:20,Canada,Health Professional,25-34,NA,Unbranded Search,2,0,0
+2014-08-11 15:30,United States,Health Professional,35-44,NA,Unbranded Search,8,0,0
+2014-08-11 18:34,United States,Health Professional,45-54,NA,Unbranded Search,4,0,0
+2014-08-12 22:44,United States,Health Professional,55-64,NA,Unbranded Search,10,0,0
+2014-08-13 09:24,United States,Health Professional,18-24,NA,Unbranded Search,7,0,0
+2014-08-13 15:08,Costa Rica,Health Professional,25-34,NA,Unbranded Search,4,0,0
+2014-08-14 13:14,United States,Health Professional,35-44,NA,Unbranded Search,6,0,0
+2014-08-15 15:00,United States,Health Professional,45-54,NA,Unbranded Search,5,0,0
+2014-08-16 22:30,United States,Health Professional,55-64,NA,Unbranded Search,12,0,0
+2014-08-17 22:47,United States,Health Professional,18-24,NA,Unbranded Search,8,0,0
+2014-08-17 23:19,United States,Health Professional,25-34,NA,Unbranded Search,3,0,0
+2014-08-18 19:06,United States,Health Professional,35-44,NA,Unbranded Search,5,0,0
+2014-08-19 05:30,Singapore,Health Professional,45-54,NA,Unbranded Search,4,0,0
+2014-08-19 13:26,United States,Health Professional,55-64,NA,Unbranded Search,11,0,0
+2014-08-19 14:33,United States,Health Professional,18-24,NA,Unbranded Search,4,0,0
+2014-08-19 15:04,United States,Health Professional,25-34,NA,Unbranded Search,9,0,0
+2014-08-19 21:10,United States,Health Professional,35-44,NA,Unbranded Search,8,0,0
+2014-08-19 22:13,United States,Health Professional,45-54,NA,Unbranded Search,3,0,0
+2014-08-20 18:19,United States,Health Professional,55-64,NA,Unbranded Search,10,0,0
+2014-08-20 23:22,United States,Health Professional,18-24,NA,Unbranded Search,11,0,0
+2014-08-22 13:49,United States,Health Professional,25-34,NA,Unbranded Search,3,0,0
+2014-08-22 14:22,United States,Health Professional,35-44,NA,Unbranded Search,4,0,0
+2014-08-24 17:12,United States,Health Professional,45-54,NA,Unbranded Search,9,0,0
+2014-08-24 21:32,United States,Health Professional,55-64,NA,Unbranded Search,8,0,0
+2014-08-25 18:04,United States,Health Professional,18-24,NA,Unbranded Search,5,0,0
+2014-08-26 02:47,United States,Health Professional,25-34,NA,Unbranded Search,12,0,0
+2014-08-26 06:31,United States,Health Professional,35-44,NA,Unbranded Search,11,0,0
+2014-08-26 17:27,Canada,Health Professional,45-54,NA,Unbranded Search,1,0,0
+2014-08-27 20:20,United States,Health Professional,18-24,NA,Unbranded Search,9,0,0
+2014-08-28 09:17,United States,Health Professional,25-34,NA,Unbranded Search,11,0,0
+2014-08-28 15:35,United States,Health Professional,35-44,NA,Unbranded Search,10,0,0
+2014-08-29 08:32,United States,Health Professional,45-54,NA,Unbranded Search,5,0,0
+2014-08-29 10:50,United States,Health Professional,55-64,NA,Unbranded Search,1,0,0
+2014-08-29 22:11,United States,Health Professional,18-24,NA,Unbranded Search,12,0,0
+2014-09-02 11:16,United States,Health Professional,25-34,NA,Unbranded Search,2,0,0
+2014-09-02 14:19,United States,Health Professional,35-44,NA,Unbranded Search,12,0,0
+2014-09-03 01:02,United States,Health Professional,45-54,NA,Unbranded Search,11,0,0
+2014-09-03 21:08,United States,Health Professional,55-64,NA,Unbranded Search,5,0,0
+2014-09-04 12:44,United States,Health Professional,18-24,NA,Unbranded Search,4,0,0
+2014-09-05 12:29,United States,Health Professional,25-34,NA,Unbranded Search,8,0,0
+2014-09-05 14:41,United States,Health Professional,35-44,NA,Unbranded Search,4,0,0
+2014-09-05 16:04,United States,Health Professional,45-54,NA,Unbranded Search,3,0,0
+2014-09-05 16:56,United States,Health Professional,55-64,NA,Unbranded Search,6,0,0
+2014-09-07 19:38,United States,Health Professional,18-24,NA,Unbranded Search,3,0,0
+2014-09-09 09:57,United States,Health Professional,25-34,NA,Unbranded Search,4,0,0
+2014-09-09 16:09,United States,Health Professional,35-44,NA,Unbranded Search,1,0,0
+2014-09-09 16:59,United States,Health Professional,45-54,NA,Unbranded Search,10,0,0
+2014-09-09 18:23,United States,Health Professional,55-64,NA,Unbranded Search,8,0,0
+2014-09-09 20:15,United States,Health Professional,18-24,NA,Unbranded Search,10,0,0
+2014-09-10 17:09,United States,Health Professional,25-34,NA,Unbranded Search,5,1,111.05
+2014-09-10 17:15,United States,Health Professional,35-44,NA,Unbranded Search,2,0,0
+2014-08-05 19:21,United States,Other,18-24,Female,Branded Search,11,0,0
+2014-08-09 01:19,United States,Other,18-24,Female,Direct,6,0,0
+2014-08-18 06:18,Thailand,Other,18-24,Female,Unbranded Search,11,0,0
+2014-08-22 11:21,United States,Other,25-34,Female,Direct,1,0,0
+2014-07-31 18:51,United States,Other,25-34,Female,Unbranded Search,7,0,0
+2014-08-12 15:00,United States,Other,25-34,Female,Unbranded Search,4,0,0
+2014-08-13 10:01,United States,Other,25-34,Female,Unbranded Search,4,0,0
+2014-09-01 19:07,United States,Other,25-34,Female,Unbranded Search,3,0,0
+2014-07-30 02:02,United States,Other,35-44,Female,Direct,6,0,0
+2014-08-13 21:01,United States,Other,35-44,Female,Direct,6,0,0
+2014-08-14 15:08,United States,Other,35-44,Female,Direct,3,0,0
+2014-08-20 08:50,Australia,Other,35-44,Female,Direct,11,0,0
+2014-09-03 10:21,United States,Other,35-44,Female,Direct,6,0,0
+2014-07-28 09:51,United States,Other,35-44,Female,Social,8,0,0
+2014-08-05 08:11,United States,Other,35-44,Female,Unbranded Search,5,0,0
+2014-08-06 14:08,United States,Other,35-44,Female,Unbranded Search,2,0,0
+2014-08-10 11:26,United States,Other,35-44,Female,Unbranded Search,12,0,0
+2014-08-22 17:06,Canada,Other,35-44,Female,Unbranded Search,10,0,0
+2014-08-25 02:52,Canada,Other,35-44,Female,Unbranded Search,5,0,0
+2014-08-29 19:40,Canada,Other,35-44,Female,Unbranded Search,4,0,0
+2014-07-29 15:43,United States,Other,45-54,Female,Branded Search,5,1,54.53
+2014-08-01 15:30,United States,Other,45-54,Female,Branded Search,3,0,0
+2014-07-29 20:18,United States,Other,45-54,Female,Direct,7,0,0
+2014-08-08 09:38,United States,Other,45-54,Female,Direct,4,0,0
+2014-09-03 18:05,United States,Other,45-54,Female,Direct,8,0,0
+2014-08-05 21:59,United States,Other,45-54,Female,Social,5,0,0
+2014-08-05 14:05,United States,Other,45-54,Female,Unbranded Search,12,1,104.77
+2014-08-25 20:37,Canada,Other,45-54,Female,Unbranded Search,12,0,0
+2014-08-28 15:20,United States,Other,45-54,Female,Unbranded Search,2,0,0
+2014-09-04 11:49,United States,Other,45-54,Female,Unbranded Search,10,0,0
+2014-09-10 19:44,Canada,Other,45-54,Female,Unbranded Search,5,0,0
+2014-07-31 15:09,United States,Other,55-64,Female,Direct,10,0,0
+2014-08-11 00:47,United States,Other,55-64,Female,Direct,1,0,0
+2014-09-02 15:59,United States,Other,55-64,Female,Direct,5,0,0
+2014-07-30 13:59,United States,Other,55-64,Female,Unbranded Search,4,0,0
+2014-08-20 14:17,United States,Other,55-64,Female,Unbranded Search,9,0,0
+2014-08-20 09:53,United States,Other,65 or older,Female,Direct,2,0,0
+2014-08-27 23:13,United States,Other,65 or older,Female,Direct,3,0,0
+2014-08-22 22:43,United States,Other,65 or older,Female,Referred,5,0,0
+2014-08-06 11:59,United States,Other,65 or older,Female,Social,1,0,0
+2014-09-08 17:35,United States,Other,Less than 18,Female,Social,1,0,0
+2014-09-02 04:21,Italy,Other,18-24,Male,Unbranded Search,2,0,0
+2014-08-06 13:24,United States,Other,55-64,Male,Referred,6,1,99.61
+2014-09-04 12:04,United States,Other,45-54,Female,Direct,11,0,0
+2014-08-05 07:27,United States,Other,35-44,Female,Unbranded Search,10,0,0
+2014-08-04 11:21,United States,Other,35-44,NA,Branded Search,3,0,0
+2014-08-05 13:06,United States,Other,45-54,NA,Branded Search,2,0,0
+2014-08-11 14:02,United States,Other,55-64,NA,Branded Search,5,0,0
+2014-08-28 08:13,United States,Other,18-24,NA,Branded Search,2,1,129.9
+2014-08-28 23:05,United States,Other,25-34,NA,Branded Search,4,0,0
+2014-07-29 13:48,United States,Other,45-54,NA,Direct,5,0,0
+2014-07-29 18:44,Canada,Other,55-64,NA,Direct,3,0,0
+2014-07-30 12:38,United States,Other,18-24,NA,Direct,1,0,0
+2014-08-04 17:38,United States,Other,25-34,NA,Direct,2,0,0
+2014-08-06 17:28,United States,Other,35-44,NA,Direct,2,0,0
+2014-08-12 10:23,United States,Other,45-54,NA,Direct,10,1,57.28
+2014-08-15 09:39,United States,Other,55-64,NA,Direct,1,0,0
+2014-08-16 17:17,United States,Other,18-24,NA,Direct,4,0,0
+2014-08-19 08:12,United States,Other,25-34,NA,Direct,3,0,0
+2014-08-20 15:23,United States,Other,35-44,NA,Direct,9,0,0
+2014-08-25 20:41,United States,Other,45-54,NA,Direct,3,0,0
+2014-08-25 23:54,United States,Other,55-64,NA,Direct,3,0,0
+2014-08-27 20:29,United States,Other,18-24,NA,Direct,4,0,0
+2014-09-08 13:10,United States,Other,25-34,NA,Direct,6,0,0
+2014-09-10 10:50,United States,Other,35-44,NA,Direct,9,0,0
+2014-09-10 11:51,United States,Other,45-54,NA,Direct,3,0,0
+2014-09-10 13:08,United States,Other,55-64,NA,Direct,11,0,0
+2014-09-10 20:23,United States,Other,18-24,NA,Direct,3,0,0
+2014-08-05 23:15,United States,Other,45-54,NA,Referred,4,0,0
+2014-08-08 17:08,United States,Other,55-64,NA,Referred,3,0,0
+2014-08-11 10:29,United States,Other,18-24,NA,Referred,4,0,0
+2014-08-13 08:57,United States,Other,25-34,NA,Referred,3,0,0
+2014-08-13 14:33,United States,Other,35-44,NA,Referred,5,0,0
+2014-08-13 20:50,United States,Other,45-54,NA,Referred,4,0,0
+2014-08-20 17:18,United States,Other,55-64,NA,Referred,4,0,0
+2014-08-21 00:44,Canada,Other,18-24,NA,Referred,3,0,0
+2014-08-27 16:57,United States,Other,25-34,NA,Referred,3,0,0
+2014-08-30 17:02,United States,Other,35-44,NA,Referred,4,0,0
+2014-09-02 16:53,United States,Other,45-54,NA,Referred,5,0,0
+2014-09-03 12:50,United States,Other,55-64,NA,Referred,1,0,0
+2014-09-04 14:23,United Kingdom,Other,18-24,NA,Referred,7,0,0
+2014-09-05 12:36,Canada,Other,25-34,NA,Referred,3,0,0
+2014-09-06 23:52,United States,Other,35-44,NA,Referred,4,0,0
+2014-09-06 23:57,United States,Other,45-54,NA,Referred,12,0,0
+2014-09-07 16:45,United States,Other,55-64,NA,Referred,11,0,0
+2014-09-07 22:18,United States,Other,18-24,NA,Referred,5,0,0
+2014-09-08 08:01,United States,Other,25-34,NA,Referred,9,0,0
+2014-09-09 01:20,United Arab Emirates,Other,35-44,NA,Referred,10,0,0
+2014-08-06 11:26,United States,Other,25-34,NA,Self Referred,6,0,0
+2014-08-23 22:29,Australia,Other,35-44,NA,Self Referred,4,0,0
+2014-08-01 10:37,United States,Other,25-34,NA,Social,7,0,0
+2014-08-01 11:37,United States,Other,35-44,NA,Social,3,0,0
+2014-08-05 14:40,United States,Other,45-54,NA,Social,2,0,0
+2014-08-06 19:34,United States,Other,55-64,NA,Social,4,0,0
+2014-08-07 22:34,United States,Other,18-24,NA,Social,11,1,118.19
+2014-09-10 23:55,United States,Other,25-34,NA,Social,11,0,0
+2014-07-26 10:37,United States,Other,45-54,NA,Unbranded Search,6,0,0
+2014-07-28 19:07,Australia,Other,55-64,NA,Unbranded Search,4,0,0
+2014-07-30 00:10,United States,Other,18-24,NA,Unbranded Search,6,0,0
+2014-08-04 16:05,Denmark,Other,25-34,NA,Unbranded Search,2,0,0
+2014-08-04 18:05,United States,Other,35-44,NA,Unbranded Search,11,0,0
+2014-08-05 13:33,Barbados,Other,45-54,NA,Unbranded Search,1,0,0
+2014-08-08 03:23,Australia,Other,55-64,NA,Unbranded Search,4,0,0
+2014-08-08 16:08,United States,Other,18-24,NA,Unbranded Search,2,0,0
+2014-08-11 09:56,Australia,Other,25-34,NA,Unbranded Search,2,0,0
+2014-08-15 16:10,Brazil,Other,35-44,NA,Unbranded Search,3,0,0
+2014-08-16 15:58,United States,Other,45-54,NA,Unbranded Search,2,0,0
+2014-08-16 19:11,United States,Other,55-64,NA,Unbranded Search,2,0,0
+2014-08-19 22:36,United States,Other,18-24,NA,Unbranded Search,12,0,0
+2014-08-20 15:33,United States,Other,25-34,NA,Unbranded Search,12,1,108.34
+2014-08-24 14:47,United States,Other,35-44,NA,Unbranded Search,3,0,0
+2014-08-25 16:18,United States,Other,45-54,NA,Unbranded Search,2,0,0
+2014-08-26 12:58,United States,Other,55-64,NA,Unbranded Search,7,0,0
+2014-08-26 20:12,United States,Other,18-24,NA,Unbranded Search,10,0,0
+2014-08-27 10:11,United States,Other,25-34,NA,Unbranded Search,11,0,0
+2014-08-28 16:21,United States,Other,35-44,NA,Unbranded Search,8,0,0
+2014-08-28 16:27,Canada,Other,45-54,NA,Unbranded Search,3,0,0
+2014-08-28 20:36,United States,Other,55-64,NA,Unbranded Search,10,0,0
+2014-08-30 13:54,United States,Other,18-24,NA,Unbranded Search,12,0,0
+2014-08-31 11:41,United States,Other,25-34,NA,Unbranded Search,1,0,0
+2014-08-31 15:39,United States,Other,35-44,NA,Unbranded Search,2,0,0
+2014-08-31 21:07,United States,Other,45-54,NA,Unbranded Search,12,0,0
+2014-09-03 11:27,United States,Other,55-64,NA,Unbranded Search,3,0,0
+2014-09-03 20:09,United States,Other,18-24,NA,Unbranded Search,2,0,0
+2014-09-03 21:18,United States,Other,25-34,NA,Unbranded Search,4,0,0
+2014-09-06 12:28,United States,Other,35-44,NA,Unbranded Search,10,0,0
+2014-09-07 09:52,United States,Other,45-54,NA,Unbranded Search,3,0,0
+2014-09-07 13:54,United States,Other,55-64,NA,Unbranded Search,2,0,0
+2014-09-08 11:20,United States,Other,18-24,NA,Unbranded Search,3,0,0
+2014-09-09 11:30,United States,Other,25-34,NA,Unbranded Search,6,0,0
+2014-09-09 20:43,United States,Other,35-44,NA,Unbranded Search,5,0,0
+2014-09-09 23:22,United States,Other,45-54,NA,Unbranded Search,11,0,0
+2014-09-10 01:00,United States,Other,55-64,NA,Unbranded Search,4,0,0
+2014-09-10 13:35,United Kingdom,Other,18-24,NA,Unbranded Search,2,0,0
+2014-07-29 11:13,United States,Parent,18-24,Female,Direct,1,0,0
+2014-08-15 21:30,United States,Parent,18-24,Female,Referred,12,0,0
+2014-07-31 14:16,United States,Parent,18-24,Female,Unbranded Search,4,0,0
+2014-08-17 15:05,United States,Parent,18-24,Female,Unbranded Search,2,0,0
+2014-08-26 00:33,United States,Parent,18-24,Female,Unbranded Search,3,0,0
+2014-08-13 10:46,United States,Parent,25-34,Female,Branded Search,6,0,0
+2014-08-31 11:55,United States,Parent,25-34,Female,Branded Search,10,1,107.61
+2014-09-05 12:35,United States,Parent,25-34,Female,Branded Search,3,0,0
+2014-07-25 14:10,United States,Parent,25-34,Female,Direct,6,0,0
+2014-07-29 11:56,United States,Parent,25-34,Female,Direct,2,0,0
+2014-07-29 12:00,United States,Parent,25-34,Female,Direct,3,0,0
+2014-07-29 18:36,United States,Parent,25-34,Female,Direct,4,0,0
+2014-08-01 10:42,United States,Parent,25-34,Female,Direct,2,0,0
+2014-08-01 11:34,Australia,Parent,25-34,Female,Direct,12,0,0
+2014-08-03 13:45,United States,Parent,25-34,Female,Direct,6,0,0
+2014-08-08 23:02,United States,Parent,25-34,Female,Direct,5,0,0
+2014-08-13 12:15,United States,Parent,25-34,Female,Direct,10,0,0
+2014-08-22 12:21,United States,Parent,25-34,Female,Direct,10,0,0
+2014-08-24 19:51,United States,Parent,25-34,Female,Direct,10,0,0
+2014-08-25 22:35,United States,Parent,25-34,Female,Direct,3,0,0
+2014-08-26 11:40,United States,Parent,25-34,Female,Direct,10,0,0
+2014-09-02 15:53,United States,Parent,25-34,Female,Direct,12,0,0
+2014-09-03 15:22,United States,Parent,25-34,Female,Direct,10,0,0
+2014-09-04 15:31,United States,Parent,25-34,Female,Direct,12,0,0
+2014-09-06 11:34,United States,Parent,25-34,Female,Direct,11,0,0
+2014-09-11 10:02,United States,Parent,25-34,Female,Direct,12,0,0
+2014-08-03 22:25,United States,Parent,25-34,Female,Referred,11,0,0
+2014-08-03 23:18,United States,Parent,25-34,Female,Referred,12,0,0
+2014-08-12 14:30,Canada,Parent,25-34,Female,Referred,8,0,0
+2014-08-16 22:24,United States,Parent,25-34,Female,Referred,2,0,0
+2014-08-24 21:09,United States,Parent,25-34,Female,Referred,3,0,0
+2014-07-29 18:13,United Kingdom,Parent,25-34,Female,Self Referred,8,0,0
+2014-08-01 09:46,United States,Parent,25-34,Female,Self Referred,2,0,0
+2014-08-08 18:59,United States,Parent,25-34,Female,Self Referred,12,1,117.33
+2014-08-09 18:36,United States,Parent,25-34,Female,Self Referred,6,1,73.13
+2014-08-11 00:06,United States,Parent,25-34,Female,Self Referred,2,0,0
+2014-08-18 13:26,United States,Parent,25-34,Female,Self Referred,11,1,111.19
+2014-07-31 13:28,United States,Parent,25-34,Female,Social,1,0,0
+2014-08-06 21:14,United States,Parent,25-34,Female,Social,3,0,0
+2014-08-09 09:43,United States,Parent,25-34,Female,Social,12,0,0
+2014-07-28 01:20,Philippines,Parent,25-34,Female,Unbranded Search,6,0,0
+2014-07-28 11:01,United States,Parent,25-34,Female,Unbranded Search,10,0,0
+2014-07-28 18:14,United States,Parent,25-34,Female,Unbranded Search,10,0,0
+2014-07-29 22:28,United States,Parent,25-34,Female,Unbranded Search,5,0,0
+2014-07-30 21:15,United States,Parent,25-34,Female,Unbranded Search,10,1,59.16
+2014-08-02 12:46,Canada,Parent,25-34,Female,Unbranded Search,7,0,0
+2014-08-02 18:48,United States,Parent,25-34,Female,Unbranded Search,11,1,102.23
+2014-08-05 23:39,United States,Parent,25-34,Female,Unbranded Search,5,0,0
+2014-08-06 19:11,United States,Parent,25-34,Female,Unbranded Search,11,1,70.66
+2014-08-06 23:11,United States,Parent,25-34,Female,Unbranded Search,10,0,0
+2014-08-09 12:02,Canada,Parent,25-34,Female,Unbranded Search,11,0,0
+2014-08-10 11:38,United States,Parent,25-34,Female,Unbranded Search,1,0,0
+2014-08-12 09:04,United States,Parent,25-34,Female,Unbranded Search,11,0,0
+2014-08-20 18:23,United States,Parent,25-34,Female,Unbranded Search,12,0,0
+2014-08-21 01:11,United States,Parent,25-34,Female,Unbranded Search,11,0,0
+2014-08-21 09:34,United States,Parent,25-34,Female,Unbranded Search,3,0,0
+2014-08-22 21:25,United States,Parent,25-34,Female,Unbranded Search,4,0,0
+2014-08-27 10:47,United States,Parent,25-34,Female,Unbranded Search,6,0,0
+2014-08-27 14:47,United States,Parent,25-34,Female,Unbranded Search,10,0,0
+2014-08-28 03:16,United States,Parent,25-34,Female,Unbranded Search,10,0,0
+2014-08-28 18:54,United States,Parent,25-34,Female,Unbranded Search,10,0,0
+2014-08-29 09:17,United States,Parent,25-34,Female,Unbranded Search,11,0,0
+2014-08-29 15:13,Canada,Parent,25-34,Female,Unbranded Search,10,0,0
+2014-08-30 22:17,United States,Parent,25-34,Female,Unbranded Search,11,0,0
+2014-08-31 22:34,United States,Parent,25-34,Female,Unbranded Search,5,0,0
+2014-09-01 15:59,Canada,Parent,25-34,Female,Unbranded Search,12,0,0
+2014-09-02 16:38,United States,Parent,25-34,Female,Unbranded Search,11,0,0
+2014-09-02 19:12,Canada,Parent,25-34,Female,Unbranded Search,2,0,0
+2014-09-03 18:08,United States,Parent,25-34,Female,Unbranded Search,10,0,0
+2014-09-04 22:21,United States,Parent,25-34,Female,Unbranded Search,2,0,0
+2014-09-04 22:28,United States,Parent,25-34,Female,Unbranded Search,2,0,0
+2014-09-05 08:49,Netherlands,Parent,25-34,Female,Unbranded Search,11,0,0
+2014-09-05 14:59,United States,Parent,25-34,Female,Unbranded Search,5,0,0
+2014-09-05 15:46,United States,Parent,25-34,Female,Unbranded Search,4,0,0
+2014-09-07 09:20,United States,Parent,25-34,Female,Unbranded Search,10,0,0
+2014-09-09 23:45,United States,Parent,25-34,Female,Unbranded Search,10,0,0
+2014-09-10 18:02,United States,Parent,25-34,Female,Unbranded Search,12,0,0
+2014-07-31 20:25,United States,Parent,35-44,Female,Branded Search,7,0,0
+2014-08-12 18:09,United States,Parent,35-44,Female,Branded Search,7,0,0
+2014-09-05 11:42,United States,Parent,35-44,Female,Branded Search,11,1,83.06
+2014-07-29 12:32,United States,Parent,35-44,Female,Direct,10,0,0
+2014-07-29 14:09,United States,Parent,35-44,Female,Direct,11,0,0
+2014-07-29 14:42,United States,Parent,35-44,Female,Direct,12,0,0
+2014-07-29 15:39,United States,Parent,35-44,Female,Direct,10,0,0
+2014-07-29 16:54,United States,Parent,35-44,Female,Direct,2,0,0
+2014-07-29 17:21,United States,Parent,35-44,Female,Direct,10,0,0
+2014-07-29 22:36,United States,Parent,35-44,Female,Direct,10,0,0
+2014-07-30 08:40,United States,Parent,35-44,Female,Direct,10,0,0
+2014-07-30 13:33,United States,Parent,35-44,Female,Direct,12,0,0
+2014-08-01 12:43,United States,Parent,35-44,Female,Direct,1,0,0
+2014-08-04 14:34,United States,Parent,35-44,Female,Direct,4,0,0
+2014-08-04 17:44,United States,Parent,35-44,Female,Direct,9,0,0
+2014-08-05 00:06,Canada,Parent,35-44,Female,Direct,10,0,0
+2014-08-05 19:21,United States,Parent,35-44,Female,Direct,12,1,30.48
+2014-08-11 14:28,United States,Parent,35-44,Female,Direct,12,1,113.56
+2014-08-13 07:39,United States,Parent,35-44,Female,Direct,1,0,0
+2014-08-13 13:15,United States,Parent,35-44,Female,Direct,12,0,0
+2014-08-13 14:18,United States,Parent,35-44,Female,Direct,3,0,0
+2014-08-13 20:16,United States,Parent,35-44,Female,Direct,4,0,0
+2014-08-15 22:13,United States,Parent,35-44,Female,Direct,11,0,0
+2014-08-18 11:59,Canada,Parent,35-44,Female,Direct,12,0,0
+2014-08-18 20:16,Canada,Parent,35-44,Female,Direct,10,0,0
+2014-08-19 14:54,United States,Parent,35-44,Female,Direct,6,0,0
+2014-08-21 14:10,United States,Parent,35-44,Female,Direct,10,0,0
+2014-08-23 22:58,United States,Parent,35-44,Female,Direct,1,0,0
+2014-08-24 18:40,United States,Parent,35-44,Female,Direct,12,1,112.57
+2014-08-25 13:45,United States,Parent,35-44,Female,Direct,2,0,0
+2014-08-25 16:07,United States,Parent,35-44,Female,Direct,3,0,0
+2014-08-25 16:59,United States,Parent,35-44,Female,Direct,2,0,0
+2014-08-25 19:59,United States,Parent,35-44,Female,Direct,1,0,0
+2014-08-26 15:47,United States,Parent,35-44,Female,Direct,10,1,119.02
+2014-08-27 00:06,Australia,Parent,35-44,Female,Direct,3,0,0
+2014-08-27 16:48,United States,Parent,35-44,Female,Direct,5,0,0
+2014-08-28 13:41,Canada,Parent,35-44,Female,Direct,12,1,87.95
+2014-09-02 22:28,United States,Parent,35-44,Female,Direct,4,0,0
+2014-09-03 12:21,United States,Parent,35-44,Female,Direct,3,0,0
+2014-09-10 10:46,United States,Parent,35-44,Female,Direct,11,0,0
+2014-09-10 12:19,United States,Parent,35-44,Female,Direct,9,0,0
+2014-09-10 14:02,United States,Parent,35-44,Female,Direct,4,0,0
+2014-09-10 14:36,United States,Parent,35-44,Female,Direct,12,0,0
+2014-09-10 16:25,United States,Parent,35-44,Female,Direct,11,0,0
+2014-09-10 17:44,United States,Parent,35-44,Female,Direct,7,0,0
+2014-09-10 22:55,United States,Parent,35-44,Female,Direct,11,0,0
+2014-09-11 11:16,United States,Parent,35-44,Female,Direct,11,0,0
+2014-07-28 10:53,United States,Parent,35-44,Female,Referred,4,0,0
+2014-07-30 00:32,United States,Parent,35-44,Female,Referred,5,0,0
+2014-08-03 22:09,United States,Parent,35-44,Female,Referred,9,0,0
+2014-08-06 22:59,United States,Parent,35-44,Female,Referred,12,0,0
+2014-08-07 19:36,United States,Parent,35-44,Female,Referred,4,0,0
+2014-08-08 12:57,Germany,Parent,35-44,Female,Referred,2,0,0
+2014-08-09 10:52,United States,Parent,35-44,Female,Referred,3,0,0
+2014-08-13 11:21,United States,Parent,35-44,Female,Referred,4,0,0
+2014-08-13 20:58,United States,Parent,35-44,Female,Referred,11,0,0
+2014-08-19 08:13,United States,Parent,35-44,Female,Referred,12,1,97.94
+2014-08-20 01:03,United States,Parent,35-44,Female,Referred,4,0,0
+2014-08-20 19:17,United States,Parent,35-44,Female,Referred,11,0,0
+2014-08-21 15:12,Ireland,Parent,35-44,Female,Referred,7,0,0
+2014-08-21 23:08,United States,Parent,35-44,Female,Referred,11,0,0
+2014-08-23 20:07,United States,Parent,35-44,Female,Referred,3,0,0
+2014-08-25 15:34,United States,Parent,35-44,Female,Referred,9,0,0
+2014-08-27 18:09,United States,Parent,35-44,Female,Referred,6,0,0
+2014-08-31 23:47,United States,Parent,35-44,Female,Referred,4,0,0
+2014-09-06 16:02,United States,Parent,35-44,Female,Referred,11,1,150.12
+2014-09-11 03:44,Spain,Parent,35-44,Female,Referred,3,0,0
+2014-07-30 16:27,United States,Parent,35-44,Female,Self Referred,5,1,129.62
+2014-08-06 18:18,United States,Parent,35-44,Female,Self Referred,4,0,0
+2014-08-14 20:36,United States,Parent,35-44,Female,Self Referred,3,0,0
+2014-08-20 14:18,United States,Parent,35-44,Female,Self Referred,11,0,0
+2014-09-01 21:15,United States,Parent,35-44,Female,Self Referred,12,0,0
+2014-08-05 00:28,Canada,Parent,35-44,Female,Social,3,0,0
+2014-08-07 10:28,United States,Parent,35-44,Female,Social,11,0,0
+2014-08-08 22:44,United States,Parent,35-44,Female,Social,5,0,0
+2014-08-14 13:29,United States,Parent,35-44,Female,Social,2,0,0
+2014-08-14 15:07,United States,Parent,35-44,Female,Social,12,0,0
+2014-09-10 10:50,United States,Parent,35-44,Female,Social,12,0,0
+2014-07-25 15:01,United States,Parent,35-44,Female,Unbranded Search,1,0,0
+2014-07-25 15:15,United States,Parent,35-44,Female,Unbranded Search,10,0,0
+2014-07-28 18:40,United States,Parent,35-44,Female,Unbranded Search,10,0,0
+2014-07-31 01:11,United States,Parent,35-44,Female,Unbranded Search,11,0,0
+2014-07-31 06:20,Netherlands,Parent,35-44,Female,Unbranded Search,12,0,0
+2014-07-31 22:13,United States,Parent,35-44,Female,Unbranded Search,12,0,0
+2014-08-02 09:43,United States,Parent,35-44,Female,Unbranded Search,12,0,0
+2014-08-02 13:37,United States,Parent,35-44,Female,Unbranded Search,10,1,116.3
+2014-08-02 14:15,United States,Parent,35-44,Female,Unbranded Search,8,0,0
+2014-08-03 22:30,United States,Parent,35-44,Female,Unbranded Search,12,0,0
+2014-08-04 18:37,United States,Parent,35-44,Female,Unbranded Search,10,1,75.25
+2014-08-06 03:46,Australia,Parent,35-44,Female,Unbranded Search,2,0,0
+2014-08-06 09:08,United States,Parent,35-44,Female,Unbranded Search,5,0,0
+2014-08-06 23:55,United States,Parent,35-44,Female,Unbranded Search,6,0,0
+2014-08-07 12:05,United States,Parent,35-44,Female,Unbranded Search,9,0,0
+2014-08-08 23:03,United States,Parent,35-44,Female,Unbranded Search,11,0,0
+2014-08-11 13:11,United States,Parent,35-44,Female,Unbranded Search,10,0,0
+2014-08-11 16:22,United States,Parent,35-44,Female,Unbranded Search,3,0,0
+2014-08-11 16:50,United States,Parent,35-44,Female,Unbranded Search,2,0,0
+2014-08-12 12:32,United States,Parent,35-44,Female,Unbranded Search,8,0,0
+2014-08-13 15:33,Brazil,Parent,35-44,Female,Unbranded Search,12,0,0
+2014-08-14 08:53,Australia,Parent,35-44,Female,Unbranded Search,12,0,0
+2014-08-14 10:27,Haiti,Parent,35-44,Female,Unbranded Search,1,0,0
+2014-08-15 14:51,United Kingdom,Parent,35-44,Female,Unbranded Search,10,0,0
+2014-08-15 16:10,United States,Parent,35-44,Female,Unbranded Search,6,0,0
+2014-08-16 13:06,United States,Parent,35-44,Female,Unbranded Search,6,0,0
+2014-08-17 10:54,United States,Parent,35-44,Female,Unbranded Search,6,0,0
+2014-08-17 23:12,United States,Parent,35-44,Female,Unbranded Search,9,0,0
+2014-08-18 18:01,United States,Parent,35-44,Female,Unbranded Search,6,0,0
+2014-08-20 11:04,United States,Parent,35-44,Female,Unbranded Search,8,0,0
+2014-08-20 23:51,Canada,Parent,35-44,Female,Unbranded Search,2,0,0
+2014-08-22 20:47,United States,Parent,35-44,Female,Unbranded Search,7,0,0
+2014-08-23 12:46,United States,Parent,35-44,Female,Unbranded Search,12,0,0
+2014-08-25 21:04,United States,Parent,35-44,Female,Unbranded Search,8,0,0
+2014-08-27 15:37,United States,Parent,35-44,Female,Unbranded Search,10,0,0
+2014-08-28 17:54,United States,Parent,35-44,Female,Unbranded Search,12,0,0
+2014-08-28 22:34,United States,Parent,35-44,Female,Unbranded Search,12,1,122.48
+2014-08-29 00:14,Canada,Parent,35-44,Female,Unbranded Search,8,0,0
+2014-08-29 11:38,United States,Parent,35-44,Female,Unbranded Search,12,1,127.51
+2014-08-29 20:36,United States,Parent,35-44,Female,Unbranded Search,3,0,0
+2014-08-31 12:42,United States,Parent,35-44,Female,Unbranded Search,12,0,0
+2014-08-31 16:39,United States,Parent,35-44,Female,Unbranded Search,8,0,0
+2014-09-02 15:35,United States,Parent,35-44,Female,Unbranded Search,10,1,80.67
+2014-09-04 19:53,United States,Parent,35-44,Female,Unbranded Search,12,0,0
+2014-09-06 19:42,United States,Parent,35-44,Female,Unbranded Search,10,0,0
+2014-09-07 20:39,United States,Parent,35-44,Female,Unbranded Search,10,0,0
+2014-09-09 11:39,United States,Parent,35-44,Female,Unbranded Search,6,0,0
+2014-09-09 14:23,United States,Parent,35-44,Female,Unbranded Search,9,0,0
+2014-09-09 15:55,United States,Parent,35-44,Female,Unbranded Search,4,0,0
+2014-09-10 14:45,United States,Parent,35-44,Female,Unbranded Search,12,0,0
+2014-08-13 15:16,Canada,Parent,45-54,Female,Branded Search,11,0,0
+2014-07-29 00:23,United States,Parent,45-54,Female,Direct,12,0,0
+2014-07-29 20:33,United States,Parent,45-54,Female,Direct,11,1,155.23
+2014-07-30 09:29,United States,Parent,45-54,Female,Direct,3,0,0
+2014-07-30 11:04,United States,Parent,45-54,Female,Direct,3,0,0
+2014-07-31 17:47,United States,Parent,45-54,Female,Direct,8,0,0
+2014-08-05 13:48,United States,Parent,45-54,Female,Direct,3,0,0
+2014-08-12 15:48,United States,Parent,45-54,Female,Direct,7,1,45.35
+2014-08-13 08:59,United States,Parent,45-54,Female,Direct,2,0,0
+2014-08-14 04:55,United States,Parent,45-54,Female,Direct,6,0,0
+2014-08-14 13:12,United States,Parent,45-54,Female,Direct,10,0,0
+2014-08-14 13:49,United States,Parent,45-54,Female,Direct,10,0,0
+2014-08-14 15:27,United States,Parent,45-54,Female,Direct,11,0,0
+2014-08-19 21:22,United States,Parent,45-54,Female,Direct,11,1,39.97
+2014-08-21 11:37,United States,Parent,45-54,Female,Direct,12,1,115.33
+2014-08-25 13:53,United States,Parent,45-54,Female,Direct,2,0,0
+2014-08-27 22:55,United States,Parent,45-54,Female,Direct,12,1,86.78
+2014-08-30 00:38,United States,Parent,45-54,Female,Direct,12,0,0
+2014-09-02 14:34,United States,Parent,45-54,Female,Direct,10,0,0
+2014-09-03 10:15,United States,Parent,45-54,Female,Direct,1,0,0
+2014-09-03 15:27,United States,Parent,45-54,Female,Direct,8,1,88.64
+2014-09-04 00:52,United States,Parent,45-54,Female,Direct,6,0,0
+2014-08-05 16:16,United States,Parent,45-54,Female,Referred,4,0,0
+2014-09-06 16:52,United States,Parent,45-54,Female,Referred,1,0,0
+2014-08-04 17:21,United States,Parent,45-54,Female,Self Referred,3,0,0
+2014-07-29 18:04,Sweden,Parent,45-54,Female,Unbranded Search,2,0,0
+2014-08-02 12:08,United States,Parent,45-54,Female,Unbranded Search,6,0,0
+2014-08-04 22:34,United States,Parent,45-54,Female,Unbranded Search,4,0,0
+2014-08-05 10:26,United States,Parent,45-54,Female,Unbranded Search,10,1,154.35
+2014-08-06 11:17,United States,Parent,45-54,Female,Unbranded Search,10,1,79.86
+2014-08-06 11:53,United States,Parent,45-54,Female,Unbranded Search,3,0,0
+2014-08-15 16:35,United States,Parent,45-54,Female,Unbranded Search,8,0,0
+2014-08-18 13:17,United States,Parent,45-54,Female,Unbranded Search,3,0,0
+2014-08-21 23:09,United States,Parent,45-54,Female,Unbranded Search,7,0,0
+2014-08-27 20:45,United States,Parent,45-54,Female,Unbranded Search,7,0,0
+2014-08-29 10:43,United States,Parent,45-54,Female,Unbranded Search,9,0,0
+2014-09-01 22:17,United States,Parent,45-54,Female,Unbranded Search,1,0,0
+2014-09-01 23:42,United States,Parent,45-54,Female,Unbranded Search,12,1,86.68
+2014-09-02 15:13,United States,Parent,45-54,Female,Unbranded Search,5,0,0
+2014-09-04 23:43,United States,Parent,45-54,Female,Unbranded Search,10,1,101.73
+2014-09-09 11:16,United States,Parent,45-54,Female,Unbranded Search,10,0,0
+2014-07-29 11:52,United States,Parent,55-64,Female,Direct,12,1,90.42
+2014-08-15 17:54,Puerto Rico,Parent,55-64,Female,Direct,2,0,0
+2014-07-31 19:29,United States,Parent,55-64,Female,Unbranded Search,6,0,0
+2014-08-12 13:28,United States,Parent,Less than 18,Female,Direct,2,0,0
+2014-08-01 14:15,United States,Parent,Less than 18,Female,Unbranded Search,8,1,109.16
+2014-08-12 23:14,United States,Parent,Less than 18,Female,Unbranded Search,10,1,105.67
+2014-08-18 01:18,United States,Parent,25-34,Female,Referred,4,0,0
+2014-07-29 11:07,Canada,Parent,45-54,Female,Social,3,0,0
+2014-08-01 20:13,United States,Parent,45-54,Female,Unbranded Search,4,0,0
+2014-08-12 00:31,United States,Parent,45-54,Female,Direct,2,0,0
+2014-07-31 15:50,United States,Parent,18-24,Male,Direct,3,0,0
+2014-09-11 11:42,United States,Parent,25-34,Male,Direct,4,0,0
+2014-07-27 14:33,Canada,Parent,25-34,Male,Referred,1,0,0
+2014-08-19 12:46,United States,Parent,25-34,Male,Referred,11,0,0
+2014-09-02 03:22,United Kingdom,Parent,25-34,Male,Unbranded Search,2,0,0
+2014-09-06 23:04,United States,Parent,25-34,Male,Unbranded Search,11,0,0
+2014-09-09 13:21,United States,Parent,25-34,Male,Unbranded Search,12,0,0
+2014-08-04 00:18,Puerto Rico,Parent,35-44,Male,Direct,10,1,59.42
+2014-08-04 13:45,United States,Parent,35-44,Male,Direct,2,0,0
+2014-08-11 21:17,Australia,Parent,35-44,Male,Direct,12,1,113.07
+2014-09-02 15:31,United States,Parent,35-44,Male,Direct,8,0,0
+2014-08-24 15:45,United States,Parent,35-44,Male,Social,5,0,0
+2014-08-08 04:37,Malta,Parent,35-44,Male,Unbranded Search,3,0,0
+2014-08-14 15:17,United States,Parent,35-44,Male,Unbranded Search,1,0,0
+2014-09-10 09:05,United States,Parent,35-44,Male,Unbranded Search,9,0,0
+2014-08-12 05:40,India,Parent,45-54,Male,Unbranded Search,4,0,0
+2014-07-26 18:48,United States,Parent,Less than 18,Male,Direct,4,0,0
+2014-07-30 17:53,United States,Parent,Less than 18,Male,Direct,12,0,0
+2014-08-13 09:05,United States,Parent,Less than 18,Male,Direct,6,0,0
+2014-08-21 12:22,United States,Parent,Less than 18,Male,Direct,12,0,0
+2014-09-02 11:27,United States,Parent,Less than 18,Male,Direct,6,0,0
+2014-09-10 14:27,United States,Parent,Less than 18,Male,Direct,3,0,0
+2014-07-27 05:26,Australia,Parent,Less than 18,Male,Unbranded Search,12,0,0
+2014-08-11 18:51,United States,Parent,Less than 18,Male,Unbranded Search,10,0,0
+2014-08-01 15:59,United States,Parent,35-44,Female,Direct,12,0,0
+2014-08-26 12:07,United States,Parent,Less than 18,Female,Direct,2,0,0
+2014-07-30 13:06,United States,Parent,55-64,Female,Direct,5,0,0
+2014-09-04 07:42,United States,Parent,18-24,Female,Direct,2,0,0
+2014-08-19 23:02,United States,Parent,55-64,Female,Unbranded Search,3,0,0
+2014-09-01 22:26,United States,Parent,25-34,NA,Unbranded Search,11,0,0
+2014-08-30 21:49,United States,Parent,35-44,NA,Referred,10,0,0
+2014-08-03 18:20,United States,Parent,35-44,NA,Unbranded Search,7,1,107.88
+2014-08-06 12:09,United States,Parent,35-44,NA,Unbranded Search,12,0,0
+2014-07-29 15:10,United States,Parent,35-44,NA,Branded Search,12,0,0
+2014-08-02 15:41,United States,Parent,45-54,NA,Branded Search,2,0,0
+2014-08-04 18:59,United States,Parent,55-64,NA,Branded Search,8,0,0
+2014-08-05 21:32,United States,Parent,18-24,NA,Branded Search,4,0,0
+2014-08-06 11:07,United States,Parent,25-34,NA,Branded Search,12,1,98.92
+2014-08-08 16:07,United States,Parent,35-44,NA,Branded Search,10,0,0
+2014-08-12 07:08,Malta,Parent,45-54,NA,Branded Search,2,0,0
+2014-08-12 17:44,United States,Parent,55-64,NA,Branded Search,5,0,0
+2014-08-14 12:41,United States,Parent,18-24,NA,Branded Search,12,0,0
+2014-08-17 18:09,United States,Parent,25-34,NA,Branded Search,11,1,122.14
+2014-08-22 20:44,United States,Parent,35-44,NA,Branded Search,11,1,70.78
+2014-08-25 21:49,United States,Parent,45-54,NA,Branded Search,12,0,0
+2014-08-25 22:31,United States,Parent,55-64,NA,Branded Search,5,0,0
+2014-09-05 13:11,United States,Parent,18-24,NA,Branded Search,2,0,0
+2014-09-06 17:08,United States,Parent,25-34,NA,Branded Search,11,0,0
+2014-07-26 18:39,United States,Parent,25-34,NA,Direct,2,0,0
+2014-07-28 20:22,Canada,Parent,35-44,NA,Direct,9,0,0
+2014-07-29 09:32,United States,Parent,45-54,NA,Direct,5,0,0
+2014-07-29 11:01,United States,Parent,55-64,NA,Direct,4,0,0
+2014-07-29 11:43,Costa Rica,Parent,18-24,NA,Direct,1,0,0
+2014-07-29 12:29,United States,Parent,25-34,NA,Direct,1,0,0
+2014-07-29 13:33,United States,Parent,35-44,NA,Direct,3,0,0
+2014-07-29 14:13,United States,Parent,45-54,NA,Direct,6,0,0
+2014-07-29 14:14,United States,Parent,55-64,NA,Direct,2,0,0
+2014-07-29 15:00,United States,Parent,18-24,NA,Direct,1,0,0
+2014-07-29 18:36,United States,Parent,25-34,NA,Direct,2,0,0
+2014-07-29 19:14,United States,Parent,35-44,NA,Direct,1,0,0
+2014-07-29 21:34,United States,Parent,45-54,NA,Direct,12,0,0
+2014-07-29 22:36,United States,Parent,55-64,NA,Direct,3,0,0
+2014-07-29 23:28,United States,Parent,18-24,NA,Direct,11,0,0
+2014-07-30 00:35,United States,Parent,25-34,NA,Direct,12,0,0
+2014-07-30 09:30,United States,Parent,35-44,NA,Direct,10,0,0
+2014-07-30 09:40,United States,Parent,45-54,NA,Direct,11,0,0
+2014-07-30 09:44,United States,Parent,55-64,NA,Direct,10,1,125.7
+2014-07-30 10:55,United States,Parent,18-24,NA,Direct,11,0,0
+2014-07-30 21:47,United States,Parent,25-34,NA,Direct,12,0,0
+2014-07-31 15:05,United States,Parent,35-44,NA,Direct,10,0,0
+2014-07-31 23:43,United States,Parent,45-54,NA,Direct,10,0,0
+2014-08-01 14:44,United States,Parent,55-64,NA,Direct,4,0,0
+2014-08-01 21:56,United States,Parent,18-24,NA,Direct,2,0,0
+2014-08-02 17:09,United States,Parent,25-34,NA,Direct,2,0,0
+2014-08-02 17:09,United States,Parent,35-44,NA,Direct,1,0,0
+2014-08-03 00:02,United States,Parent,45-54,NA,Direct,9,0,0
+2014-08-04 08:48,United States,Parent,55-64,NA,Direct,11,0,0
+2014-08-04 10:47,United States,Parent,18-24,NA,Direct,12,0,0
+2014-08-04 13:19,United States,Parent,25-34,NA,Direct,12,0,0
+2014-08-04 16:01,United States,Parent,35-44,NA,Direct,5,0,0
+2014-08-05 09:12,United States,Parent,45-54,NA,Direct,4,0,0
+2014-08-05 19:50,United States,Parent,55-64,NA,Direct,12,0,0
+2014-08-06 16:18,United States,Parent,18-24,NA,Direct,10,0,0
+2014-08-08 18:48,Malaysia,Parent,25-34,NA,Direct,11,0,0
+2014-08-08 21:58,United States,Parent,35-44,NA,Direct,10,0,0
+2014-08-12 22:49,United States,Parent,55-64,NA,Direct,4,0,0
+2014-08-13 09:11,United States,Parent,18-24,NA,Direct,2,0,0
+2014-08-13 09:50,United States,Parent,25-34,NA,Direct,12,0,0
+2014-08-13 10:59,United States,Parent,35-44,NA,Direct,10,0,0
+2014-08-13 11:00,United States,Parent,45-54,NA,Direct,10,0,0
+2014-08-13 14:29,United States,Parent,55-64,NA,Direct,4,0,0
+2014-08-13 17:19,United States,Parent,18-24,NA,Direct,2,0,0
+2014-08-13 17:41,Mexico,Parent,25-34,NA,Direct,3,0,0
+2014-08-13 19:06,United States,Parent,35-44,NA,Direct,9,0,0
+2014-08-13 21:15,United States,Parent,45-54,NA,Direct,12,0,0
+2014-08-14 01:56,United States,Parent,55-64,NA,Direct,11,0,0
+2014-08-14 06:21,United States,Parent,18-24,NA,Direct,11,0,0
+2014-08-14 12:18,United Kingdom,Parent,25-34,NA,Direct,5,0,0
+2014-08-14 22:25,United States,Parent,35-44,NA,Direct,4,0,0
+2014-08-15 19:15,United States,Parent,45-54,NA,Direct,10,0,0
+2014-08-15 21:59,United States,Parent,55-64,NA,Direct,2,0,0
+2014-08-16 10:24,India,Parent,18-24,NA,Direct,4,0,0
+2014-08-16 16:59,Nigeria,Parent,25-34,NA,Direct,10,1,84.1
+2014-08-18 16:17,United States,Parent,35-44,NA,Direct,12,0,0
+2014-08-18 21:44,United States,Parent,45-54,NA,Direct,3,0,0
+2014-08-18 23:38,Puerto Rico,Parent,55-64,NA,Direct,4,0,0
+2014-08-19 00:25,Australia,Parent,18-24,NA,Direct,12,0,0
+2014-08-19 08:18,United States,Parent,25-34,NA,Direct,7,0,0
+2014-08-19 10:17,United States,Parent,35-44,NA,Direct,6,0,0
+2014-08-20 01:38,United States,Parent,45-54,NA,Direct,11,0,0
+2014-08-20 01:47,United States,Parent,55-64,NA,Direct,6,0,0
+2014-08-21 14:35,United States,Parent,18-24,NA,Direct,10,0,0
+2014-08-21 18:07,United States,Parent,25-34,NA,Direct,5,0,0
+2014-08-22 14:35,United States,Parent,35-44,NA,Direct,5,0,0
+2014-08-22 14:37,United States,Parent,45-54,NA,Direct,6,0,0
+2014-08-23 23:39,United States,Parent,55-64,NA,Direct,5,0,0
+2014-08-24 19:19,United States,Parent,18-24,NA,Direct,11,1,148.96
+2014-08-24 21:55,United States,Parent,25-34,NA,Direct,1,0,0
+2014-08-25 14:40,United States,Parent,35-44,NA,Direct,11,0,0
+2014-08-25 16:40,United States,Parent,45-54,NA,Direct,7,0,0
+2014-08-25 16:41,Canada,Parent,55-64,NA,Direct,11,0,0
+2014-08-25 16:49,United States,Parent,18-24,NA,Direct,8,0,0
+2014-08-25 16:59,United States,Parent,25-34,NA,Direct,12,0,0
+2014-08-26 11:28,United States,Parent,35-44,NA,Direct,8,0,0
+2014-08-26 14:53,United States,Parent,45-54,NA,Direct,12,1,124.89
+2014-08-27 02:15,United States,Parent,55-64,NA,Direct,11,0,0
+2014-08-27 09:16,United States,Parent,18-24,NA,Direct,11,0,0
+2014-08-28 00:28,United States,Parent,25-34,NA,Direct,10,1,145.98
+2014-08-28 10:39,United States,Parent,35-44,NA,Direct,4,0,0
+2014-08-28 15:27,United States,Parent,45-54,NA,Direct,4,0,0
+2014-08-29 15:22,United States,Parent,55-64,NA,Direct,7,0,0
+2014-08-30 10:39,United States,Parent,18-24,NA,Direct,11,0,0
+2014-08-31 16:48,United States,Parent,25-34,NA,Direct,12,1,117.38
+2014-08-31 22:33,United States,Parent,35-44,NA,Direct,4,0,0
+2014-09-01 17:23,United States,Parent,45-54,NA,Direct,6,0,0
+2014-09-01 19:18,United States,Parent,55-64,NA,Direct,11,0,0
+2014-09-02 09:44,United States,Parent,18-24,NA,Direct,10,0,0
+2014-09-02 13:56,United States,Parent,25-34,NA,Direct,6,0,0
+2014-09-02 16:46,United States,Parent,35-44,NA,Direct,4,0,0
+2014-09-02 17:22,United States,Parent,45-54,NA,Direct,12,1,97.65
+2014-09-02 20:22,United States,Parent,55-64,NA,Direct,4,0,0
+2014-09-03 00:14,Philippines,Parent,18-24,NA,Direct,10,0,0
+2014-09-03 01:38,Canada,Parent,25-34,NA,Direct,1,0,0
+2014-09-03 20:02,United States,Parent,35-44,NA,Direct,4,0,0
+2014-09-04 08:15,United States,Parent,45-54,NA,Direct,3,0,0
+2014-09-04 10:08,United States,Parent,55-64,NA,Direct,11,0,0
+2014-09-04 11:41,United States,Parent,18-24,NA,Direct,12,0,0
+2014-09-04 19:13,United States,Parent,25-34,NA,Direct,6,0,0
+2014-09-04 23:55,United States,Parent,35-44,NA,Direct,8,0,0
+2014-09-05 14:30,United States,Parent,45-54,NA,Direct,3,0,0
+2014-09-07 21:57,United States,Parent,55-64,NA,Direct,10,0,0
+2014-09-07 22:49,United States,Parent,18-24,NA,Direct,7,0,0
+2014-09-07 23:45,United States,Parent,25-34,NA,Direct,11,1,130.34
+2014-09-08 13:45,United States,Parent,35-44,NA,Direct,6,0,0
+2014-09-08 14:49,United States,Parent,45-54,NA,Direct,10,1,101.52
+2014-09-08 17:29,United States,Parent,55-64,NA,Direct,10,0,0
+2014-09-08 21:22,United States,Parent,18-24,NA,Direct,12,0,0
+2014-09-08 22:40,United States,Parent,25-34,NA,Direct,4,0,0
+2014-09-09 12:51,United States,Parent,35-44,NA,Direct,4,0,0
+2014-09-09 16:39,United States,Parent,45-54,NA,Direct,2,0,0
+2014-09-09 23:24,United States,Parent,55-64,NA,Direct,11,0,0
+2014-09-10 03:59,Botswana,Parent,18-24,NA,Direct,9,0,0
+2014-09-10 10:10,United States,Parent,25-34,NA,Direct,6,0,0
+2014-09-10 10:40,United States,Parent,35-44,NA,Direct,6,0,0
+2014-09-10 14:09,United States,Parent,45-54,NA,Direct,11,0,0
+2014-09-10 21:12,United States,Parent,55-64,NA,Direct,12,0,0
+2014-09-10 23:23,United States,Parent,18-24,NA,Direct,10,0,0
+2014-09-11 07:56,United States,Parent,25-34,NA,Direct,4,0,0
+2014-09-11 08:24,United States,Parent,35-44,NA,Direct,6,0,0
+2014-09-11 11:18,United States,Parent,45-54,NA,Direct,4,0,0
+2014-08-07 13:26,United States,Parent,35-44,NA,Email,2,0,0
+2014-09-10 18:57,United States,Parent,45-54,NA,Email,12,0,0
+2014-09-11 10:34,Canada,Parent,55-64,NA,Email,10,0,0
+2014-09-10 18:15,Costa Rica,Parent,45-54,NA,Paid Search,3,0,0
+2014-07-28 13:57,Israel,Parent,45-54,NA,Referred,11,0,0
+2014-07-28 15:34,United States,Parent,55-64,NA,Referred,8,1,105.87
+2014-07-29 16:59,United States,Parent,18-24,NA,Referred,1,0,0
+2014-07-30 21:03,United States,Parent,25-34,NA,Referred,4,0,0
+2014-08-02 23:58,United States,Parent,35-44,NA,Referred,4,0,0
+2014-08-03 15:37,United States,Parent,45-54,NA,Referred,10,0,0
+2014-08-04 16:25,Namibia,Parent,55-64,NA,Referred,1,0,0
+2014-08-06 21:57,United States,Parent,18-24,NA,Referred,12,0,0
+2014-08-07 15:37,United Kingdom,Parent,25-34,NA,Referred,6,0,0
+2014-08-08 13:25,United States,Parent,35-44,NA,Referred,2,0,0
+2014-08-09 13:16,United States,Parent,45-54,NA,Referred,10,0,0
+2014-08-09 16:25,United States,Parent,55-64,NA,Referred,9,0,0
+2014-08-10 12:28,United Kingdom,Parent,18-24,NA,Referred,5,0,0
+2014-08-11 08:28,Australia,Parent,25-34,NA,Referred,12,0,0
+2014-08-11 13:42,United States,Parent,35-44,NA,Referred,11,0,0
+2014-08-14 16:36,United States,Parent,45-54,NA,Referred,12,0,0
+2014-08-15 20:15,United States,Parent,55-64,NA,Referred,1,0,0
+2014-08-16 22:05,United States,Parent,18-24,NA,Referred,11,1,86.05
+2014-08-17 02:34,Australia,Parent,25-34,NA,Referred,10,1,103.36
+2014-08-18 23:42,Australia,Parent,35-44,NA,Referred,5,0,0
+2014-08-19 21:45,United States,Parent,45-54,NA,Referred,10,0,0
+2014-08-20 16:10,United States,Parent,55-64,NA,Referred,12,0,0
+2014-08-21 21:13,United States,Parent,18-24,NA,Referred,3,0,0
+2014-08-22 03:34,India,Parent,25-34,NA,Referred,12,1,82.7
+2014-08-23 15:33,United States,Parent,35-44,NA,Referred,6,0,0
+2014-08-23 23:21,Canada,Parent,45-54,NA,Referred,8,0,0
+2014-08-25 16:44,United States,Parent,55-64,NA,Referred,2,0,0
+2014-08-29 10:28,United States,Parent,18-24,NA,Referred,12,0,0
+2014-08-30 13:57,India,Parent,25-34,NA,Referred,10,0,0
+2014-08-30 22:25,United States,Parent,35-44,NA,Referred,5,0,0
+2014-09-01 23:51,United States,Parent,45-54,NA,Referred,12,0,0
+2014-09-03 13:30,United States,Parent,55-64,NA,Referred,10,0,0
+2014-09-08 15:57,United States,Parent,18-24,NA,Referred,7,0,0
+2014-09-08 23:27,United States,Parent,25-34,NA,Referred,10,0,0
+2014-09-09 10:34,United States,Parent,35-44,NA,Referred,4,0,0
+2014-09-09 18:33,United States,Parent,45-54,NA,Referred,3,0,0
+2014-09-10 02:53,Norway,Parent,55-64,NA,Referred,11,0,0
+2014-09-11 10:28,United States,Parent,18-24,NA,Referred,4,0,0
+2014-07-27 19:02,United States,Parent,45-54,NA,Self Referred,4,0,0
+2014-07-29 13:39,United States,Parent,55-64,NA,Self Referred,6,0,0
+2014-07-29 16:03,United States,Parent,18-24,NA,Self Referred,2,0,0
+2014-08-01 16:24,South Africa,Parent,25-34,NA,Self Referred,4,0,0
+2014-08-02 22:08,United States,Parent,35-44,NA,Self Referred,10,1,64.26
+2014-08-04 09:30,United States,Parent,45-54,NA,Self Referred,4,0,0
+2014-08-13 17:16,United States,Parent,55-64,NA,Self Referred,11,0,0
+2014-08-13 19:25,United States,Parent,18-24,NA,Self Referred,6,0,0
+2014-08-16 19:55,United States,Parent,25-34,NA,Self Referred,7,0,0
+2014-08-18 00:14,United States,Parent,35-44,NA,Self Referred,10,0,0
+2014-08-19 16:51,United States,Parent,45-54,NA,Self Referred,3,0,0
+2014-08-21 13:53,United States,Parent,55-64,NA,Self Referred,10,0,0
+2014-08-25 15:07,United States,Parent,18-24,NA,Self Referred,3,0,0
+2014-08-25 16:03,United States,Parent,25-34,NA,Self Referred,11,0,0
+2014-08-29 17:35,Canada,Parent,35-44,NA,Self Referred,11,0,0
+2014-08-29 18:01,United States,Parent,45-54,NA,Self Referred,2,0,0
+2014-08-30 21:20,United States,Parent,55-64,NA,Self Referred,10,0,0
+2014-09-01 11:58,United States,Parent,18-24,NA,Self Referred,4,0,0
+2014-09-05 19:50,United States,Parent,25-34,NA,Self Referred,6,0,0
+2014-07-28 21:09,United States,Parent,35-44,NA,Social,12,0,0
+2014-07-30 07:53,United States,Parent,45-54,NA,Social,1,0,0
+2014-07-31 13:23,United States,Parent,55-64,NA,Social,5,1,109.51
+2014-08-01 16:14,United States,Parent,18-24,NA,Social,10,0,0
+2014-08-05 11:23,Canada,Parent,25-34,NA,Social,3,0,0
+2014-08-05 12:42,Canada,Parent,35-44,NA,Social,12,0,0
+2014-08-06 10:42,United States,Parent,45-54,NA,Social,6,0,0
+2014-08-07 22:46,United States,Parent,55-64,NA,Social,2,0,0
+2014-08-08 00:06,Canada,Parent,18-24,NA,Social,1,0,0
+2014-08-08 11:55,United States,Parent,25-34,NA,Social,4,0,0
+2014-08-10 09:45,United States,Parent,35-44,NA,Social,12,0,0
+2014-08-12 14:41,United States,Parent,45-54,NA,Social,4,0,0
+2014-08-13 00:48,United States,Parent,55-64,NA,Social,10,0,0
+2014-08-13 18:32,United States,Parent,18-24,NA,Social,11,0,0
+2014-08-15 11:59,United States,Parent,25-34,NA,Social,3,0,0
+2014-08-15 16:14,United States,Parent,35-44,NA,Social,3,0,0
+2014-08-17 14:34,United States,Parent,45-54,NA,Social,12,0,0
+2014-08-19 20:01,United States,Parent,55-64,NA,Social,8,0,0
+2014-08-20 13:00,United States,Parent,18-24,NA,Social,7,0,0
+2014-08-21 15:17,United States,Parent,25-34,NA,Social,3,0,0
+2014-08-21 23:07,Canada,Parent,35-44,NA,Social,4,0,0
+2014-08-23 11:14,Canada,Parent,45-54,NA,Social,8,0,0
+2014-08-24 23:20,United States,Parent,55-64,NA,Social,8,0,0
+2014-08-26 09:30,United States,Parent,18-24,NA,Social,4,0,0
+2014-08-26 12:24,United States,Parent,25-34,NA,Social,3,0,0
+2014-08-27 10:34,United States,Parent,35-44,NA,Social,3,0,0
+2014-08-28 03:44,Canada,Parent,45-54,NA,Social,3,0,0
+2014-08-29 14:34,United States,Parent,55-64,NA,Social,12,0,0
+2014-09-01 08:41,United States,Parent,18-24,NA,Social,4,0,0
+2014-09-05 00:19,United States,Parent,25-34,NA,Social,4,0,0
+2014-09-05 21:14,United States,Parent,35-44,NA,Social,4,0,0
+2014-09-06 01:02,United States,Parent,45-54,NA,Social,10,0,0
+2014-09-06 23:48,United States,Parent,55-64,NA,Social,12,0,0
+2014-09-07 21:53,United States,Parent,18-24,NA,Social,8,0,0
+2014-09-10 22:33,United States,Parent,25-34,NA,Social,6,0,0
+2014-07-26 15:47,India,Parent,25-34,NA,Unbranded Search,7,0,0
+2014-07-27 15:07,United States,Parent,35-44,NA,Unbranded Search,9,0,0
+2014-07-27 15:34,United States,Parent,45-54,NA,Unbranded Search,10,0,0
+2014-07-27 22:05,United States,Parent,55-64,NA,Unbranded Search,10,0,0
+2014-07-28 14:40,United States,Parent,18-24,NA,Unbranded Search,6,0,0
+2014-07-28 19:58,United States,Parent,25-34,NA,Unbranded Search,10,0,0
+2014-07-28 20:18,United States,Parent,35-44,NA,Unbranded Search,4,0,0
+2014-07-28 22:35,United States,Parent,45-54,NA,Unbranded Search,3,0,0
+2014-07-29 08:38,United States,Parent,55-64,NA,Unbranded Search,1,0,0
+2014-07-29 11:52,United States,Parent,18-24,NA,Unbranded Search,10,0,0
+2014-07-29 12:32,Canada,Parent,25-34,NA,Unbranded Search,11,0,0
+2014-07-29 12:41,Israel,Parent,35-44,NA,Unbranded Search,3,0,0
+2014-07-29 15:54,United States,Parent,45-54,NA,Unbranded Search,3,0,0
+2014-07-29 18:36,United States,Parent,55-64,NA,Unbranded Search,12,0,0
+2014-07-29 21:57,United States,Parent,18-24,NA,Unbranded Search,4,0,0
+2014-07-30 09:13,Australia,Parent,25-34,NA,Unbranded Search,3,0,0
+2014-07-30 12:44,United States,Parent,35-44,NA,Unbranded Search,5,0,0
+2014-07-30 14:22,United States,Parent,45-54,NA,Unbranded Search,11,0,0
+2014-07-30 14:30,United States,Parent,55-64,NA,Unbranded Search,11,0,0
+2014-07-30 18:44,United States,Parent,18-24,NA,Unbranded Search,7,0,0
+2014-07-30 23:04,Canada,Parent,25-34,NA,Unbranded Search,9,0,0
+2014-07-31 08:01,United States,Parent,35-44,NA,Unbranded Search,11,0,0
+2014-07-31 13:56,United States,Parent,45-54,NA,Unbranded Search,6,0,0
+2014-07-31 20:17,United States,Parent,55-64,NA,Unbranded Search,12,0,0
+2014-07-31 23:10,United States,Parent,18-24,NA,Unbranded Search,6,1,91.8
+2014-08-01 12:05,United States,Parent,25-34,NA,Unbranded Search,10,0,0
+2014-08-01 12:06,United States,Parent,35-44,NA,Unbranded Search,5,1,78.47
+2014-08-02 19:55,United States,Parent,45-54,NA,Unbranded Search,11,1,74.21
+2014-08-03 04:28,Netherlands,Parent,55-64,NA,Unbranded Search,3,0,0
+2014-08-03 14:47,United States,Parent,18-24,NA,Unbranded Search,12,0,0
+2014-08-04 01:02,United States,Parent,25-34,NA,Unbranded Search,12,0,0
+2014-08-04 11:13,United Kingdom,Parent,35-44,NA,Unbranded Search,12,0,0
+2014-08-04 11:25,United Kingdom,Parent,45-54,NA,Unbranded Search,12,0,0
+2014-08-04 12:08,United States,Parent,55-64,NA,Unbranded Search,4,0,0
+2014-08-04 14:02,United States,Parent,18-24,NA,Unbranded Search,6,0,0
+2014-08-04 14:32,United States,Parent,25-34,NA,Unbranded Search,7,0,0
+2014-08-04 19:09,Canada,Parent,35-44,NA,Unbranded Search,2,0,0
+2014-08-04 20:33,Canada,Parent,45-54,NA,Unbranded Search,6,0,0
+2014-08-04 23:25,United States,Parent,55-64,NA,Unbranded Search,10,0,0
+2014-08-05 01:44,United States,Parent,18-24,NA,Unbranded Search,11,0,0
+2014-08-05 08:03,United States,Parent,25-34,NA,Unbranded Search,10,0,0
+2014-08-05 10:27,United States,Parent,35-44,NA,Unbranded Search,1,0,0
+2014-08-05 12:45,United States,Parent,45-54,NA,Unbranded Search,4,0,0
+2014-08-05 13:39,United States,Parent,55-64,NA,Unbranded Search,10,1,108.12
+2014-08-05 16:05,United States,Parent,18-24,NA,Unbranded Search,8,0,0
+2014-08-06 09:39,United States,Parent,25-34,NA,Unbranded Search,10,0,0
+2014-08-06 13:12,United States,Parent,35-44,NA,Unbranded Search,5,0,0
+2014-08-06 14:25,United States,Parent,45-54,NA,Unbranded Search,12,1,122.72
+2014-08-06 15:03,Canada,Parent,55-64,NA,Unbranded Search,12,1,132.32
+2014-08-06 15:52,United States,Parent,18-24,NA,Unbranded Search,5,0,0
+2014-08-06 18:58,United States,Parent,25-34,NA,Unbranded Search,12,0,0
+2014-08-06 22:00,United States,Parent,35-44,NA,Unbranded Search,11,0,0
+2014-08-06 22:18,United States,Parent,45-54,NA,Unbranded Search,8,0,0
+2014-08-07 01:35,Australia,Parent,55-64,NA,Unbranded Search,7,0,0
+2014-08-07 16:12,United States,Parent,18-24,NA,Unbranded Search,4,0,0
+2014-08-07 17:43,United States,Parent,25-34,NA,Unbranded Search,4,0,0
+2014-08-08 19:04,United States,Parent,35-44,NA,Unbranded Search,1,0,0
+2014-08-08 23:37,India,Parent,45-54,NA,Unbranded Search,7,0,0
+2014-08-09 10:17,United States,Parent,55-64,NA,Unbranded Search,9,0,0
+2014-08-09 19:16,United States,Parent,18-24,NA,Unbranded Search,7,0,0
+2014-08-10 15:43,United States,Parent,25-34,NA,Unbranded Search,12,0,0
+2014-08-10 21:36,United States,Parent,35-44,NA,Unbranded Search,10,0,0
+2014-08-10 21:50,Canada,Parent,45-54,NA,Unbranded Search,11,0,0
+2014-08-10 23:22,United States,Parent,55-64,NA,Unbranded Search,2,0,0
+2014-08-11 00:31,United States,Parent,18-24,NA,Unbranded Search,11,1,91.92
+2014-08-11 01:11,Australia,Parent,25-34,NA,Unbranded Search,10,0,0
+2014-08-11 12:53,United States,Parent,35-44,NA,Unbranded Search,12,1,125.78
+2014-08-11 14:13,United States,Parent,45-54,NA,Unbranded Search,6,0,0
+2014-08-11 16:52,United States,Parent,55-64,NA,Unbranded Search,12,1,118.58
+2014-08-11 17:18,United States,Parent,18-24,NA,Unbranded Search,10,0,0
+2014-08-11 23:48,United States,Parent,25-34,NA,Unbranded Search,10,0,0
+2014-08-12 01:14,United States,Parent,35-44,NA,Unbranded Search,12,1,139.27
+2014-08-12 01:46,Australia,Parent,45-54,NA,Unbranded Search,9,0,0
+2014-08-12 10:41,United States,Parent,55-64,NA,Unbranded Search,5,0,0
+2014-08-12 11:17,United States,Parent,18-24,NA,Unbranded Search,6,0,0
+2014-08-12 20:58,United States,Parent,25-34,NA,Unbranded Search,12,0,0
+2014-08-13 02:26,United States,Parent,35-44,NA,Unbranded Search,12,0,0
+2014-08-13 08:06,United States,Parent,45-54,NA,Unbranded Search,11,0,0
+2014-08-13 13:13,United States,Parent,55-64,NA,Unbranded Search,10,0,0
+2014-08-13 13:48,United States,Parent,18-24,NA,Unbranded Search,10,0,0
+2014-08-13 14:09,United States,Parent,25-34,NA,Unbranded Search,10,0,0
+2014-08-13 14:55,United States,Parent,35-44,NA,Unbranded Search,5,0,0
+2014-08-13 15:22,United States,Parent,45-54,NA,Unbranded Search,7,0,0
+2014-08-14 07:35,Australia,Parent,55-64,NA,Unbranded Search,7,0,0
+2014-08-14 07:55,United States,Parent,18-24,NA,Unbranded Search,3,0,0
+2014-08-14 17:20,India,Parent,25-34,NA,Unbranded Search,3,0,0
+2014-08-15 10:39,United States,Parent,35-44,NA,Unbranded Search,3,0,0
+2014-08-15 12:41,United States,Parent,45-54,NA,Unbranded Search,3,0,0
+2014-08-15 12:45,United States,Parent,55-64,NA,Unbranded Search,11,0,0
+2014-08-15 20:50,United States,Parent,18-24,NA,Unbranded Search,8,0,0
+2014-08-16 02:37,United States,Parent,25-34,NA,Unbranded Search,4,0,0
+2014-08-16 17:29,United States,Parent,35-44,NA,Unbranded Search,7,0,0
+2014-08-16 23:48,United States,Parent,45-54,NA,Unbranded Search,3,0,0
+2014-08-17 07:33,Ireland,Parent,55-64,NA,Unbranded Search,3,0,0
+2014-08-17 08:40,United Kingdom,Parent,18-24,NA,Unbranded Search,1,0,0
+2014-08-17 11:16,United States,Parent,25-34,NA,Unbranded Search,9,0,0
+2014-08-17 21:39,United States,Parent,35-44,NA,Unbranded Search,8,0,0
+2014-08-18 00:33,Australia,Parent,45-54,NA,Unbranded Search,10,0,0
+2014-08-18 07:54,Australia,Parent,55-64,NA,Unbranded Search,9,1,98.89
+2014-08-18 12:05,United States,Parent,18-24,NA,Unbranded Search,11,0,0
+2014-08-18 13:22,United States,Parent,25-34,NA,Unbranded Search,11,0,0
+2014-08-18 17:47,United States,Parent,35-44,NA,Unbranded Search,7,0,0
+2014-08-18 21:40,United States,Parent,45-54,NA,Unbranded Search,1,0,0
+2014-08-19 07:37,Australia,Parent,55-64,NA,Unbranded Search,2,0,0
+2014-08-19 10:19,Australia,Parent,18-24,NA,Unbranded Search,10,0,0
+2014-08-19 11:38,United States,Parent,25-34,NA,Unbranded Search,3,0,0
+2014-08-19 15:20,United States,Parent,35-44,NA,Unbranded Search,2,0,0
+2014-08-19 16:33,United States,Parent,45-54,NA,Unbranded Search,12,0,0
+2014-08-19 20:27,United States,Parent,55-64,NA,Unbranded Search,5,0,0
+2014-08-20 07:01,India,Parent,18-24,NA,Unbranded Search,3,0,0
+2014-08-20 11:23,Canada,Parent,25-34,NA,Unbranded Search,3,0,0
+2014-08-20 15:31,United States,Parent,35-44,NA,Unbranded Search,11,0,0
+2014-08-20 18:15,United States,Parent,45-54,NA,Unbranded Search,10,0,0
+2014-08-21 01:23,United States,Parent,55-64,NA,Unbranded Search,7,0,0
+2014-08-21 09:45,United States,Parent,18-24,NA,Unbranded Search,6,0,0
+2014-08-21 10:26,United States,Parent,25-34,NA,Unbranded Search,2,0,0
+2014-08-21 13:29,United States,Parent,35-44,NA,Unbranded Search,7,0,0
+2014-08-21 15:11,United States,Parent,45-54,NA,Unbranded Search,10,0,0
+2014-08-21 19:37,United States,Parent,55-64,NA,Unbranded Search,12,0,0
+2014-08-21 22:39,United States,Parent,18-24,NA,Unbranded Search,11,0,0
+2014-08-22 00:07,United States,Parent,25-34,NA,Unbranded Search,12,0,0
+2014-08-22 06:01,United Kingdom,Parent,35-44,NA,Unbranded Search,2,0,0
+2014-08-22 08:32,United States,Parent,45-54,NA,Unbranded Search,4,0,0
+2014-08-22 09:39,United States,Parent,55-64,NA,Unbranded Search,9,0,0
+2014-08-22 10:04,United States,Parent,18-24,NA,Unbranded Search,1,0,0
+2014-08-22 10:24,United States,Parent,25-34,NA,Unbranded Search,11,0,0
+2014-08-22 20:49,United States,Parent,35-44,NA,Unbranded Search,12,0,0
+2014-08-22 21:50,United States,Parent,45-54,NA,Unbranded Search,10,0,0
+2014-08-23 08:02,Japan,Parent,55-64,NA,Unbranded Search,1,0,0
+2014-08-23 09:55,United States,Parent,18-24,NA,Unbranded Search,1,0,0
+2014-08-23 17:09,United States,Parent,25-34,NA,Unbranded Search,4,0,0
+2014-08-23 20:24,United States,Parent,35-44,NA,Unbranded Search,12,0,0
+2014-08-24 10:54,United States,Parent,45-54,NA,Unbranded Search,2,0,0
+2014-08-24 12:36,United States,Parent,55-64,NA,Unbranded Search,11,0,0
+2014-08-24 19:58,United States,Parent,18-24,NA,Unbranded Search,12,0,0
+2014-08-24 23:53,United States,Parent,25-34,NA,Unbranded Search,12,0,0
+2014-08-25 02:59,Australia,Parent,35-44,NA,Unbranded Search,9,0,0
+2014-08-25 05:55,United Kingdom,Parent,45-54,NA,Unbranded Search,4,0,0
+2014-08-25 09:48,United States,Parent,55-64,NA,Unbranded Search,2,0,0
+2014-08-25 11:52,United States,Parent,18-24,NA,Unbranded Search,11,0,0
+2014-08-25 15:34,Germany,Parent,25-34,NA,Unbranded Search,10,0,0
+2014-08-25 20:10,United States,Parent,35-44,NA,Unbranded Search,2,0,0
+2014-08-25 21:01,United States,Parent,45-54,NA,Unbranded Search,3,0,0
+2014-08-26 00:36,United States,Parent,55-64,NA,Unbranded Search,4,0,0
+2014-08-26 03:12,United States,Parent,18-24,NA,Unbranded Search,2,0,0
+2014-08-26 12:11,South Africa,Parent,25-34,NA,Unbranded Search,2,0,0
+2014-08-26 12:57,United States,Parent,35-44,NA,Unbranded Search,11,0,0
+2014-08-26 19:30,United States,Parent,45-54,NA,Unbranded Search,3,0,0
+2014-08-26 20:32,United States,Parent,55-64,NA,Unbranded Search,1,0,0
+2014-08-26 22:09,United States,Parent,18-24,NA,Unbranded Search,8,0,0
+2014-08-27 08:04,United States,Parent,25-34,NA,Unbranded Search,8,0,0
+2014-08-27 14:50,United States,Parent,35-44,NA,Unbranded Search,10,0,0
+2014-08-27 19:28,United States,Parent,45-54,NA,Unbranded Search,2,0,0
+2014-08-28 00:33,Australia,Parent,55-64,NA,Unbranded Search,12,0,0
+2014-08-28 08:26,United States,Parent,18-24,NA,Unbranded Search,12,0,0
+2014-08-28 13:11,United States,Parent,25-34,NA,Unbranded Search,10,0,0
+2014-08-28 17:07,United States,Parent,35-44,NA,Unbranded Search,4,0,0
+2014-08-28 19:47,United States,Parent,45-54,NA,Unbranded Search,11,1,59.41
+2014-08-28 22:45,Canada,Parent,55-64,NA,Unbranded Search,12,0,0
+2014-08-28 23:14,Canada,Parent,18-24,NA,Unbranded Search,7,1,110.54
+2014-08-29 12:35,United States,Parent,25-34,NA,Unbranded Search,2,0,0
+2014-08-29 13:35,United States,Parent,35-44,NA,Unbranded Search,5,0,0
+2014-08-29 13:47,United States,Parent,45-54,NA,Unbranded Search,9,0,0
+2014-08-29 16:11,United States,Parent,55-64,NA,Unbranded Search,5,0,0
+2014-08-29 19:25,United States,Parent,18-24,NA,Unbranded Search,11,0,0
+2014-08-29 19:57,Colombia,Parent,25-34,NA,Unbranded Search,10,0,0
+2014-08-29 21:17,United States,Parent,35-44,NA,Unbranded Search,10,0,0
+2014-08-29 23:29,United States,Parent,45-54,NA,Unbranded Search,3,0,0
+2014-08-30 10:52,United States,Parent,55-64,NA,Unbranded Search,11,0,0
+2014-08-30 13:46,United States,Parent,18-24,NA,Unbranded Search,11,0,0
+2014-08-31 01:11,United States,Parent,25-34,NA,Unbranded Search,11,0,0
+2014-08-31 05:04,India,Parent,35-44,NA,Unbranded Search,4,0,0
+2014-08-31 21:30,Australia,Parent,45-54,NA,Unbranded Search,9,0,0
+2014-08-31 22:38,Australia,Parent,55-64,NA,Unbranded Search,2,0,0
+2014-09-01 08:03,United States,Parent,18-24,NA,Unbranded Search,12,1,107.71
+2014-09-01 10:14,United Kingdom,Parent,25-34,NA,Unbranded Search,4,0,0
+2014-09-01 18:39,United States,Parent,35-44,NA,Unbranded Search,4,0,0
+2014-09-02 04:46,United Kingdom,Parent,45-54,NA,Unbranded Search,12,0,0
+2014-09-02 16:44,United States,Parent,55-64,NA,Unbranded Search,12,0,0
+2014-09-02 18:44,United States,Parent,18-24,NA,Unbranded Search,6,0,0
+2014-09-02 20:34,United States,Parent,25-34,NA,Unbranded Search,4,0,0
+2014-09-02 21:09,United States,Parent,35-44,NA,Unbranded Search,10,0,0
+2014-09-02 22:15,United States,Parent,45-54,NA,Unbranded Search,6,0,0
+2014-09-02 22:20,United States,Parent,55-64,NA,Unbranded Search,8,0,0
+2014-09-03 11:04,United States,Parent,18-24,NA,Unbranded Search,11,0,0
+2014-09-03 13:55,United States,Parent,25-34,NA,Unbranded Search,10,0,0
+2014-09-03 17:15,United States,Parent,35-44,NA,Unbranded Search,4,0,0
+2014-09-03 18:34,United States,Parent,45-54,NA,Unbranded Search,11,0,0
+2014-09-04 01:00,United States,Parent,55-64,NA,Unbranded Search,11,1,132.9
+2014-09-04 01:30,United States,Parent,18-24,NA,Unbranded Search,6,0,0
+2014-09-04 07:04,United States,Parent,25-34,NA,Unbranded Search,11,0,0
+2014-09-04 11:50,United States,Parent,35-44,NA,Unbranded Search,4,0,0
+2014-09-04 13:59,United States,Parent,45-54,NA,Unbranded Search,11,1,128.63
+2014-09-04 14:42,United States,Parent,55-64,NA,Unbranded Search,2,0,0
+2014-09-04 18:11,United States,Parent,18-24,NA,Unbranded Search,10,0,0
+2014-09-04 20:59,United States,Parent,25-34,NA,Unbranded Search,7,0,0
+2014-09-04 21:15,United States,Parent,35-44,NA,Unbranded Search,8,0,0
+2014-09-04 22:39,United States,Parent,45-54,NA,Unbranded Search,4,0,0
+2014-09-05 09:13,United States,Parent,55-64,NA,Unbranded Search,3,0,0
+2014-09-05 10:20,United States,Parent,18-24,NA,Unbranded Search,11,0,0
+2014-09-05 13:18,United States,Parent,25-34,NA,Unbranded Search,8,0,0
+2014-09-05 13:56,United States,Parent,35-44,NA,Unbranded Search,5,0,0
+2014-09-05 14:09,United States,Parent,45-54,NA,Unbranded Search,4,0,0
+2014-09-05 19:38,United States,Parent,55-64,NA,Unbranded Search,2,0,0
+2014-09-05 21:52,United States,Parent,18-24,NA,Unbranded Search,2,0,0
+2014-09-05 21:58,United States,Parent,25-34,NA,Unbranded Search,10,0,0
+2014-09-06 08:42,Australia,Parent,35-44,NA,Unbranded Search,7,0,0
+2014-09-06 09:09,United States,Parent,45-54,NA,Unbranded Search,1,0,0
+2014-09-06 09:28,United States,Parent,55-64,NA,Unbranded Search,4,0,0
+2014-09-06 10:31,United States,Parent,18-24,NA,Unbranded Search,8,0,0
+2014-09-06 14:30,United States,Parent,25-34,NA,Unbranded Search,8,0,0
+2014-09-06 16:23,United States,Parent,35-44,NA,Unbranded Search,6,0,0
+2014-09-06 20:49,United States,Parent,45-54,NA,Unbranded Search,10,0,0
+2014-09-06 21:05,United States,Parent,55-64,NA,Unbranded Search,9,0,0
+2014-09-06 21:14,United States,Parent,18-24,NA,Unbranded Search,8,0,0
+2014-09-07 03:48,United Kingdom,Parent,25-34,NA,Unbranded Search,4,0,0
+2014-09-07 11:06,United States,Parent,35-44,NA,Unbranded Search,12,0,0
+2014-09-07 11:07,United States,Parent,45-54,NA,Unbranded Search,1,0,0
+2014-09-07 15:10,United States,Parent,55-64,NA,Unbranded Search,9,0,0
+2014-09-07 16:46,United States,Parent,18-24,NA,Unbranded Search,3,0,0
+2014-09-07 17:03,United States,Parent,25-34,NA,Unbranded Search,4,0,0
+2014-09-07 21:35,United States,Parent,35-44,NA,Unbranded Search,10,0,0
+2014-09-07 21:45,United States,Parent,45-54,NA,Unbranded Search,3,0,0
+2014-09-07 21:48,United States,Parent,55-64,NA,Unbranded Search,4,0,0
+2014-09-07 23:24,United States,Parent,18-24,NA,Unbranded Search,4,0,0
+2014-09-08 06:13,United States,Parent,25-34,NA,Unbranded Search,10,0,0
+2014-09-08 08:28,United States,Parent,35-44,NA,Unbranded Search,3,0,0
+2014-09-08 09:44,United States,Parent,45-54,NA,Unbranded Search,3,0,0
+2014-09-08 12:12,United States,Parent,55-64,NA,Unbranded Search,3,0,0
+2014-09-08 13:47,United States,Parent,18-24,NA,Unbranded Search,7,0,0
+2014-09-08 16:14,Canada,Parent,25-34,NA,Unbranded Search,11,0,0
+2014-09-08 17:43,United States,Parent,35-44,NA,Unbranded Search,11,0,0
+2014-09-08 18:22,United States,Parent,45-54,NA,Unbranded Search,4,0,0
+2014-09-08 21:43,United States,Parent,55-64,NA,Unbranded Search,4,0,0
+2014-09-08 22:45,United States,Parent,18-24,NA,Unbranded Search,12,0,0
+2014-09-08 23:23,United States,Parent,25-34,NA,Unbranded Search,6,0,0
+2014-09-09 02:22,United States,Parent,35-44,NA,Unbranded Search,10,0,0
+2014-09-09 12:57,United States,Parent,45-54,NA,Unbranded Search,12,0,0
+2014-09-09 12:58,United States,Parent,55-64,NA,Unbranded Search,10,0,0
+2014-09-09 18:54,United States,Parent,18-24,NA,Unbranded Search,11,0,0
+2014-09-09 20:22,United States,Parent,25-34,NA,Unbranded Search,9,0,0
+2014-09-09 22:22,United States,Parent,35-44,NA,Unbranded Search,2,0,0
+2014-09-09 22:28,United States,Parent,45-54,NA,Unbranded Search,5,0,0
+2014-09-10 01:27,Australia,Parent,55-64,NA,Unbranded Search,3,0,0
+2014-09-10 04:23,United Kingdom,Parent,18-24,NA,Unbranded Search,10,0,0
+2014-09-10 08:36,United States,Parent,25-34,NA,Unbranded Search,11,0,0
+2014-09-10 09:55,United States,Parent,35-44,NA,Unbranded Search,6,0,0
+2014-09-10 12:36,United States,Parent,45-54,NA,Unbranded Search,5,0,0
+2014-09-10 13:43,United States,Parent,55-64,NA,Unbranded Search,12,0,0
+2014-09-10 15:08,United States,Parent,18-24,NA,Unbranded Search,3,0,0
+2014-09-10 15:52,United States,Parent,25-34,NA,Unbranded Search,12,0,0
+2014-09-11 01:10,India,Parent,35-44,NA,Unbranded Search,3,0,0
+2014-09-11 06:46,India,Parent,45-54,NA,Unbranded Search,8,0,0
+2014-09-11 10:05,South Africa,Parent,55-64,NA,Unbranded Search,9,0,0
+2014-08-20 08:23,Australia,Patient,18-24,Female,Direct,5,0,0
+2014-08-27 12:17,United States,Patient,18-24,Female,Direct,10,0,0
+2014-09-05 15:06,United States,Patient,18-24,Female,Social,4,0,0
+2014-08-07 15:58,United States,Patient,18-24,Female,Unbranded Search,10,1,85.41
+2014-08-16 10:46,United States,Patient,18-24,Female,Unbranded Search,7,0,0
+2014-07-25 17:05,United States,Patient,25-34,Female,Unbranded Search,11,0,0
+2014-09-01 15:15,United States,Patient,25-34,Female,Unbranded Search,6,0,0
+2014-09-05 11:42,United States,Patient,25-34,Female,Unbranded Search,5,0,0
+2014-08-25 10:42,United States,Patient,45-54,Female,Unbranded Search,9,0,0
+2014-08-19 16:40,United States,Patient,55-64,Female,Unbranded Search,3,0,0
+2014-08-01 15:12,United Kingdom,Patient,Less than 18,Female,Unbranded Search,5,0,0
+2014-08-20 23:48,United States,Patient,Less than 18,Female,Unbranded Search,8,1,147.84
+2014-08-22 00:33,United States,Patient,Less than 18,Female,Unbranded Search,5,0,0
+2014-08-26 01:38,United States,Patient,Less than 18,Male,Unbranded Search,12,0,0
+2014-08-30 22:46,United States,Patient,18-24,Female,Direct,10,0,0
+2014-07-26 01:50,United States,Patient,18-24,Female,Social,11,0,0
+2014-09-07 05:01,United States,Patient,18-24,Female,Unbranded Search,5,0,0
+2014-08-04 10:20,Denmark,Patient,Less than 18,Female,Direct,4,0,0
+2014-08-28 01:08,United States,Patient,Less than 18,Female,Direct,4,0,0
+2014-09-06 12:45,United Kingdom,Patient,Less than 18,Female,Unbranded Search,10,0,0
+2014-08-15 14:35,United States,Patient,55-64,NA,Direct,5,0,0
+2014-08-16 07:28,South Africa,Patient,18-24,NA,Direct,10,1,98.91
+2014-08-28 01:04,United States,Patient,25-34,NA,Direct,12,0,0
+2014-08-29 22:14,United States,Patient,35-44,NA,Direct,11,0,0
+2014-09-08 08:30,United States,Patient,45-54,NA,Direct,2,0,0
+2014-09-08 11:38,United States,Patient,55-64,NA,Direct,4,0,0
+2014-07-26 21:55,United States,Patient,25-34,NA,Referred,12,0,0
+2014-07-30 03:32,Canada,Patient,35-44,NA,Referred,4,0,0
+2014-08-19 20:28,Australia,Patient,45-54,NA,Referred,3,0,0
+2014-08-21 02:16,United States,Patient,55-64,NA,Referred,1,0,0
+2014-08-25 12:15,United States,Patient,18-24,NA,Referred,11,0,0
+2014-08-26 16:42,United Kingdom,Patient,25-34,NA,Referred,1,0,0
+2014-09-10 22:02,United States,Patient,35-44,NA,Referred,12,0,0
+2014-09-05 03:49,United States,Patient,35-44,NA,Social,3,0,0
+2014-07-30 13:42,South Africa,Patient,18-24,NA,Unbranded Search,2,0,0
+2014-07-31 23:05,United States,Patient,25-34,NA,Unbranded Search,11,0,0
+2014-08-02 02:05,United States,Patient,35-44,NA,Unbranded Search,3,0,0
+2014-08-02 03:35,United States,Patient,45-54,NA,Unbranded Search,11,0,0
+2014-08-04 16:53,United States,Patient,55-64,NA,Unbranded Search,4,0,0
+2014-08-05 10:33,United States,Patient,18-24,NA,Unbranded Search,4,0,0
+2014-08-14 08:34,United States,Patient,25-34,NA,Unbranded Search,3,0,0
+2014-08-16 23:27,United States,Patient,35-44,NA,Unbranded Search,6,0,0
+2014-08-23 08:16,United States,Patient,45-54,NA,Unbranded Search,10,0,0
+2014-08-23 22:10,United States,Patient,55-64,NA,Unbranded Search,2,0,0
+2014-08-26 09:29,United States,Patient,18-24,NA,Unbranded Search,12,0,0
+2014-08-27 16:40,United States,Patient,25-34,NA,Unbranded Search,3,0,0
+2014-08-30 14:21,United States,Patient,35-44,NA,Unbranded Search,4,0,0
+2014-08-30 19:45,United States,Patient,45-54,NA,Unbranded Search,12,0,0
+2014-08-30 23:42,United States,Patient,55-64,NA,Unbranded Search,8,0,0
+2014-09-01 17:23,Poland,Patient,18-24,NA,Unbranded Search,1,0,0
+2014-09-01 20:55,United States,Patient,25-34,NA,Unbranded Search,12,0,0
+2014-09-11 03:04,United States,Patient,35-44,NA,Unbranded Search,7,0,0
+2014-09-01 19:39,United States,Relative,18-24,Female,Direct,3,0,0
+2014-09-05 16:19,United States,Relative,18-24,Female,Unbranded Search,3,0,0
+2014-08-27 14:04,United States,Relative,25-34,Female,Referred,12,0,0
+2014-08-21 14:55,United States,Relative,25-34,Female,Unbranded Search,7,0,0
+2014-09-11 11:33,United States,Relative,25-34,Female,Unbranded Search,12,0,0
+2014-07-28 21:27,United States,Relative,35-44,Female,Direct,6,1,119.03
+2014-08-06 21:13,United States,Relative,45-54,Female,Branded Search,11,0,0
+2014-09-10 11:20,United States,Relative,45-54,Female,Direct,7,0,0
+2014-08-03 06:20,United States,Relative,45-54,Female,Unbranded Search,10,0,0
+2014-08-06 06:29,United Kingdom,Relative,45-54,Female,Unbranded Search,2,0,0
+2014-08-15 04:33,United States,Relative,45-54,Female,Unbranded Search,12,0,0
+2014-08-15 22:13,United States,Relative,45-54,Female,Unbranded Search,6,0,0
+2014-08-24 21:28,United States,Relative,45-54,Female,Unbranded Search,3,0,0
+2014-08-26 01:53,United States,Relative,45-54,Female,Unbranded Search,11,1,113.93
+2014-09-07 20:41,United States,Relative,45-54,Female,Unbranded Search,2,0,0
+2014-08-01 12:53,United States,Relative,55-64,Female,Direct,10,0,0
+2014-08-16 17:09,United States,Relative,55-64,Female,Direct,3,0,0
+2014-08-18 08:35,Canada,Relative,55-64,Female,Direct,10,0,0
+2014-08-28 11:01,United States,Relative,55-64,Female,Direct,10,0,0
+2014-09-02 21:37,United States,Relative,55-64,Female,Direct,4,0,0
+2014-07-29 14:57,United States,Relative,55-64,Female,Referred,5,0,0
+2014-07-30 16:14,United States,Relative,55-64,Female,Self Referred,11,1,46.99
+2014-08-02 17:35,United Kingdom,Relative,55-64,Female,Social,4,0,0
+2014-08-11 17:36,South Africa,Relative,55-64,Female,Unbranded Search,6,0,0
+2014-08-18 19:41,United States,Relative,55-64,Female,Unbranded Search,1,0,0
+2014-08-23 08:53,United Kingdom,Relative,55-64,Female,Unbranded Search,7,0,0
+2014-08-28 23:10,United States,Relative,55-64,Female,Unbranded Search,12,1,125.31
+2014-08-28 17:13,United States,Relative,65 or older,Female,Direct,6,0,0
+2014-09-02 23:33,United States,Relative,65 or older,Female,Direct,7,0,0
+2014-09-10 14:52,United States,Relative,65 or older,Female,Direct,10,0,0
+2014-08-12 14:18,United Kingdom,Relative,65 or older,Female,Referred,3,0,0
+2014-08-21 15:40,United States,Relative,65 or older,Female,Referred,4,0,0
+2014-08-08 23:26,United States,Relative,65 or older,Female,Unbranded Search,1,0,0
+2014-08-15 16:38,United States,Relative,65 or older,Female,Unbranded Search,8,0,0
+2014-07-29 14:48,United States,Relative,Less than 18,Female,Direct,12,0,0
+2014-08-16 11:18,United States,Relative,Less than 18,Female,Direct,8,0,0
+2014-08-09 00:44,United States,Relative,55-64,Male,Direct,11,0,0
+2014-07-28 19:13,United States,Relative,Less than 18,Male,Unbranded Search,9,0,0
+2014-09-02 21:19,United States,Relative,Less than 18,Male,Unbranded Search,6,0,0
+2014-09-08 18:12,Netherlands,Relative,18-24,Female,Unbranded Search,3,0,0
+2014-08-04 08:33,United States,Relative,35-44,NA,Branded Search,10,1,76.98
+2014-08-10 18:27,United States,Relative,45-54,NA,Branded Search,12,0,0
+2014-08-24 00:28,United States,Relative,55-64,NA,Branded Search,12,0,0
+2014-07-29 15:05,United States,Relative,18-24,NA,Direct,8,0,0
+2014-07-30 06:33,United States,Relative,25-34,NA,Direct,6,0,0
+2014-07-30 08:45,United States,Relative,35-44,NA,Direct,4,0,0
+2014-07-31 09:09,United States,Relative,45-54,NA,Direct,4,0,0
+2014-08-05 19:52,United States,Relative,55-64,NA,Direct,11,1,146.11
+2014-08-10 19:37,United States,Relative,18-24,NA,Direct,11,0,0
+2014-08-12 15:52,United States,Relative,25-34,NA,Direct,7,0,0
+2014-08-19 20:03,United States,Relative,35-44,NA,Direct,10,0,0
+2014-08-25 02:16,United States,Relative,45-54,NA,Direct,11,0,0
+2014-08-25 14:26,United States,Relative,55-64,NA,Direct,2,0,0
+2014-08-25 15:22,United States,Relative,18-24,NA,Direct,9,0,0
+2014-09-01 04:35,United States,Relative,25-34,NA,Direct,12,0,0
+2014-09-02 11:32,United States,Relative,35-44,NA,Direct,4,0,0
+2014-09-02 17:17,United States,Relative,45-54,NA,Direct,8,0,0
+2014-09-10 10:08,Israel,Relative,55-64,NA,Direct,1,0,0
+2014-09-11 00:16,United States,Relative,18-24,NA,Direct,4,0,0
+2014-08-01 18:44,United States,Relative,45-54,NA,Referred,11,0,0
+2014-08-02 12:46,United States,Relative,55-64,NA,Referred,11,0,0
+2014-08-02 17:11,United States,Relative,18-24,NA,Referred,10,1,97.93
+2014-08-07 13:39,United States,Relative,25-34,NA,Referred,11,0,0
+2014-08-13 12:42,United States,Relative,35-44,NA,Referred,6,0,0
+2014-08-14 12:30,United States,Relative,45-54,NA,Referred,3,0,0
+2014-08-24 19:51,United States,Relative,55-64,NA,Referred,3,0,0
+2014-08-30 19:15,United States,Relative,18-24,NA,Referred,10,0,0
+2014-09-10 14:18,United States,Relative,25-34,NA,Referred,4,0,0
+2014-09-11 08:55,United States,Relative,35-44,NA,Referred,6,0,0
+2014-08-06 13:04,United States,Relative,35-44,NA,Self Referred,7,0,0
+2014-08-31 17:29,United States,Relative,45-54,NA,Self Referred,6,0,0
+2014-08-03 17:16,United States,Relative,45-54,NA,Social,5,0,0
+2014-07-26 20:27,United States,Relative,45-54,NA,Unbranded Search,1,0,0
+2014-07-28 13:13,United States,Relative,55-64,NA,Unbranded Search,5,0,0
+2014-07-30 02:52,Israel,Relative,18-24,NA,Unbranded Search,10,0,0
+2014-08-02 19:26,United States,Relative,25-34,NA,Unbranded Search,5,0,0
+2014-08-05 09:42,India,Relative,35-44,NA,Unbranded Search,2,0,0
+2014-08-05 11:32,United States,Relative,45-54,NA,Unbranded Search,12,0,0
+2014-08-05 11:34,United States,Relative,55-64,NA,Unbranded Search,10,0,0
+2014-08-06 06:15,United Kingdom,Relative,18-24,NA,Unbranded Search,1,0,0
+2014-08-09 10:13,United States,Relative,25-34,NA,Unbranded Search,11,0,0
+2014-08-10 01:18,Australia,Relative,35-44,NA,Unbranded Search,2,0,0
+2014-08-10 10:10,United States,Relative,45-54,NA,Unbranded Search,10,1,128.21
+2014-08-11 21:03,United States,Relative,55-64,NA,Unbranded Search,12,0,0
+2014-08-16 03:21,United States,Relative,18-24,NA,Unbranded Search,11,0,0
+2014-08-16 17:44,United States,Relative,25-34,NA,Unbranded Search,3,0,0
+2014-08-17 09:40,United Kingdom,Relative,35-44,NA,Unbranded Search,4,0,0
+2014-08-18 19:24,United States,Relative,45-54,NA,Unbranded Search,4,0,0
+2014-08-19 09:02,United States,Relative,55-64,NA,Unbranded Search,5,0,0
+2014-08-19 18:42,United States,Relative,18-24,NA,Unbranded Search,2,0,0
+2014-08-22 11:37,United Kingdom,Relative,25-34,NA,Unbranded Search,3,0,0
+2014-08-24 21:11,United States,Relative,35-44,NA,Unbranded Search,12,1,92.16
+2014-08-25 19:03,United States,Relative,45-54,NA,Unbranded Search,12,0,0
+2014-08-27 04:55,Turkey,Relative,55-64,NA,Unbranded Search,2,0,0
+2014-08-27 20:19,United States,Relative,18-24,NA,Unbranded Search,1,0,0
+2014-08-27 21:07,United States,Relative,25-34,NA,Unbranded Search,8,0,0
+2014-08-27 22:56,United States,Relative,35-44,NA,Unbranded Search,4,0,0
+2014-08-28 14:35,United States,Relative,45-54,NA,Unbranded Search,11,0,0
+2014-08-30 04:03,United Kingdom,Relative,55-64,NA,Unbranded Search,2,0,0
+2014-08-30 12:02,United States,Relative,18-24,NA,Unbranded Search,5,0,0
+2014-09-03 13:23,United States,Relative,25-34,NA,Unbranded Search,4,0,0
+2014-09-04 11:30,United States,Relative,35-44,NA,Unbranded Search,10,0,0
+2014-09-06 14:49,United Kingdom,Relative,45-54,NA,Unbranded Search,7,0,0
+2014-09-06 18:40,United States,Relative,55-64,NA,Unbranded Search,1,0,0
+2014-09-09 16:30,United States,Relative,18-24,NA,Unbranded Search,8,0,0
+2014-09-09 18:27,Saudi Arabia,Relative,25-34,NA,Unbranded Search,6,0,0
+2014-09-09 18:51,United States,Relative,35-44,NA,Unbranded Search,2,0,0
+2014-08-13 16:50,United States,Teacher,18-24,Female,Branded Search,5,1,110.78
+2014-07-30 19:13,United States,Teacher,18-24,Female,Direct,8,0,0
+2014-08-08 17:28,United States,Teacher,18-24,Female,Unbranded Search,3,0,0
+2014-09-04 11:37,United States,Teacher,18-24,Female,Unbranded Search,6,0,0
+2014-08-05 15:40,United States,Teacher,25-34,Female,Branded Search,7,0,0
+2014-09-02 20:10,United States,Teacher,25-34,Female,Branded Search,12,0,0
+2014-09-03 14:19,United States,Teacher,25-34,Female,Branded Search,5,0,0
+2014-07-30 12:20,United States,Teacher,25-34,Female,Direct,7,0,0
+2014-08-13 15:59,United States,Teacher,25-34,Female,Direct,8,0,0
+2014-08-13 08:38,United States,Teacher,25-34,Female,Referred,1,0,0
+2014-09-08 15:05,United States,Teacher,25-34,Female,Referred,5,0,0
+2014-09-03 21:11,United States,Teacher,25-34,Female,Social,2,0,0
+2014-08-12 00:06,United States,Teacher,25-34,Female,Unbranded Search,10,0,0
+2014-08-21 13:31,United States,Teacher,25-34,Female,Unbranded Search,1,0,0
+2014-08-30 22:39,United States,Teacher,25-34,Female,Unbranded Search,10,0,0
+2014-09-09 15:20,United States,Teacher,25-34,Female,Unbranded Search,3,0,0
+2014-07-28 11:19,United States,Teacher,35-44,Female,Direct,4,1,115.51
+2014-09-04 10:21,United States,Teacher,35-44,Female,Self Referred,9,0,0
+2014-07-27 08:47,United States,Teacher,35-44,Female,Social,10,0,0
+2014-07-30 22:29,United States,Teacher,35-44,Female,Social,3,0,0
+2014-07-29 15:28,United States,Teacher,35-44,Female,Unbranded Search,10,1,88.75
+2014-08-07 23:06,United States,Teacher,35-44,Female,Unbranded Search,7,0,0
+2014-08-13 14:01,United States,Teacher,35-44,Female,Unbranded Search,7,0,0
+2014-08-18 15:04,United States,Teacher,35-44,Female,Unbranded Search,8,0,0
+2014-08-26 18:11,United States,Teacher,35-44,Female,Unbranded Search,6,0,0
+2014-09-04 23:03,Canada,Teacher,35-44,Female,Unbranded Search,3,0,0
+2014-09-09 05:59,United States,Teacher,35-44,Female,Unbranded Search,2,0,0
+2014-09-09 11:14,United States,Teacher,35-44,Female,Unbranded Search,11,1,76.74
+2014-09-10 15:21,United States,Teacher,35-44,Female,Unbranded Search,10,0,0
+2014-08-07 19:54,United States,Teacher,45-54,Female,Branded Search,3,0,0
+2014-07-30 10:38,United States,Teacher,45-54,Female,Direct,1,0,0
+2014-07-30 11:05,United States,Teacher,45-54,Female,Direct,3,0,0
+2014-08-13 07:52,United States,Teacher,45-54,Female,Direct,3,0,0
+2014-08-13 13:59,United States,Teacher,45-54,Female,Direct,11,0,0
+2014-08-25 12:49,United States,Teacher,45-54,Female,Direct,3,0,0
+2014-09-02 22:12,United States,Teacher,45-54,Female,Direct,3,0,0
+2014-09-10 14:05,United States,Teacher,45-54,Female,Direct,4,0,0
+2014-07-26 11:51,United States,Teacher,45-54,Female,Referred,10,0,0
+2014-07-30 14:40,United States,Teacher,45-54,Female,Referred,2,0,0
+2014-08-11 19:39,United States,Teacher,45-54,Female,Referred,5,0,0
+2014-08-25 14:39,United States,Teacher,45-54,Female,Self Referred,2,0,0
+2014-07-27 08:50,Australia,Teacher,45-54,Female,Social,10,1,99.48
+2014-07-30 08:01,Australia,Teacher,45-54,Female,Social,12,0,0
+2014-08-21 10:12,United States,Teacher,45-54,Female,Social,11,0,0
+2014-09-08 20:40,Canada,Teacher,45-54,Female,Social,3,0,0
+2014-08-01 21:52,United States,Teacher,45-54,Female,Unbranded Search,12,1,117.87
+2014-08-04 07:47,Canada,Teacher,45-54,Female,Unbranded Search,9,0,0
+2014-08-05 16:51,United States,Teacher,45-54,Female,Unbranded Search,4,0,0
+2014-08-05 17:12,United States,Teacher,45-54,Female,Unbranded Search,3,0,0
+2014-08-08 20:03,Australia,Teacher,45-54,Female,Unbranded Search,1,0,0
+2014-08-09 14:07,United Arab Emirates,Teacher,45-54,Female,Unbranded Search,9,0,0
+2014-08-14 21:12,United States,Teacher,45-54,Female,Unbranded Search,9,0,0
+2014-08-20 21:46,United States,Teacher,45-54,Female,Unbranded Search,12,0,0
+2014-08-28 12:05,United States,Teacher,45-54,Female,Unbranded Search,12,1,128.01
+2014-08-29 12:58,South Africa,Teacher,45-54,Female,Unbranded Search,3,0,0
+2014-09-02 11:31,United States,Teacher,45-54,Female,Unbranded Search,9,0,0
+2014-09-03 06:38,United States,Teacher,45-54,Female,Unbranded Search,4,0,0
+2014-09-04 11:38,United States,Teacher,45-54,Female,Unbranded Search,8,0,0
+2014-09-08 10:45,United States,Teacher,45-54,Female,Unbranded Search,12,0,0
+2014-09-09 15:57,United States,Teacher,45-54,Female,Unbranded Search,5,0,0
+2014-09-10 11:32,United States,Teacher,45-54,Female,Unbranded Search,5,0,0
+2014-08-13 14:07,United States,Teacher,55-64,Female,Branded Search,10,0,0
+2014-07-29 22:48,United States,Teacher,55-64,Female,Direct,1,0,0
+2014-07-29 22:53,United States,Teacher,55-64,Female,Direct,12,0,0
+2014-07-30 07:30,Australia,Teacher,55-64,Female,Direct,7,0,0
+2014-08-20 16:12,United States,Teacher,55-64,Female,Direct,10,0,0
+2014-09-11 09:11,United States,Teacher,55-64,Female,Direct,2,0,0
+2014-09-02 10:27,United States,Teacher,55-64,Female,Email,3,0,0
+2014-07-26 00:27,United States,Teacher,55-64,Female,Referred,3,0,0
+2014-08-09 08:23,United States,Teacher,55-64,Female,Social,3,0,0
+2014-08-31 21:56,United States,Teacher,55-64,Female,Social,3,0,0
+2014-07-30 11:15,United States,Teacher,55-64,Female,Unbranded Search,3,0,0
+2014-08-08 22:18,United States,Teacher,55-64,Female,Unbranded Search,4,0,0
+2014-08-13 09:01,United States,Teacher,55-64,Female,Unbranded Search,10,0,0
+2014-08-18 16:46,United States,Teacher,55-64,Female,Unbranded Search,12,0,0
+2014-08-18 17:08,United States,Teacher,55-64,Female,Unbranded Search,9,0,0
+2014-09-02 10:37,United States,Teacher,55-64,Female,Unbranded Search,9,1,71.02
+2014-08-06 08:17,United States,Teacher,45-54,Male,Social,10,0,0
+2014-09-08 14:42,United States,Teacher,45-54,Male,Unbranded Search,9,1,88.12
+2014-08-13 13:21,United States,Teacher,55-64,Male,Unbranded Search,9,0,0
+2014-08-03 19:11,United States,Teacher,18-24,NA,Branded Search,10,0,0
+2014-08-29 17:24,United States,Teacher,25-34,NA,Branded Search,7,0,0
+2014-09-05 15:10,United States,Teacher,35-44,NA,Branded Search,6,0,0
+2014-09-10 11:29,United States,Teacher,45-54,NA,Branded Search,11,1,131.5
+2014-07-27 21:46,United States,Teacher,25-34,NA,Direct,4,0,0
+2014-07-29 19:21,United States,Teacher,35-44,NA,Direct,4,0,0
+2014-07-30 10:27,United States,Teacher,45-54,NA,Direct,2,0,0
+2014-07-30 13:50,United States,Teacher,55-64,NA,Direct,10,0,0
+2014-08-04 20:25,United States,Teacher,18-24,NA,Direct,3,0,0
+2014-08-04 22:08,Australia,Teacher,25-34,NA,Direct,8,1,81.1
+2014-08-05 11:52,United States,Teacher,35-44,NA,Direct,6,0,0
+2014-08-09 13:33,Ukraine,Teacher,45-54,NA,Direct,10,0,0
+2014-08-13 12:52,United States,Teacher,55-64,NA,Direct,12,0,0
+2014-08-13 14:12,United States,Teacher,18-24,NA,Direct,11,0,0
+2014-08-13 21:30,Canada,Teacher,25-34,NA,Direct,12,0,0
+2014-08-19 12:18,United States,Teacher,35-44,NA,Direct,6,0,0
+2014-08-23 01:53,United States,Teacher,45-54,NA,Direct,12,0,0
+2014-08-25 13:39,United States,Teacher,55-64,NA,Direct,5,0,0
+2014-08-25 15:56,United States,Teacher,18-24,NA,Direct,4,0,0
+2014-08-29 23:42,United States,Teacher,25-34,NA,Direct,7,0,0
+2014-09-02 09:39,United States,Teacher,35-44,NA,Direct,3,0,0
+2014-09-03 12:29,United States,Teacher,45-54,NA,Direct,5,0,0
+2014-09-04 14:21,United States,Teacher,55-64,NA,Direct,1,0,0
+2014-09-10 07:28,United States,Teacher,18-24,NA,Direct,11,0,0
+2014-09-10 07:50,Australia,Teacher,25-34,NA,Direct,5,0,0
+2014-09-10 10:53,United States,Teacher,35-44,NA,Direct,4,0,0
+2014-09-10 11:17,United States,Teacher,45-54,NA,Direct,11,0,0
+2014-09-10 14:39,United States,Teacher,55-64,NA,Direct,10,0,0
+2014-09-11 08:06,United States,Teacher,18-24,NA,Direct,12,0,0
+2014-08-25 18:06,Australia,Teacher,18-24,NA,Email,11,0,0
+2014-09-10 12:52,United States,Teacher,25-34,NA,Email,4,0,0
+2014-07-28 11:18,United States,Teacher,45-54,NA,Referred,4,0,0
+2014-07-30 16:19,United States,Teacher,55-64,NA,Referred,4,0,0
+2014-07-31 14:01,United States,Teacher,18-24,NA,Referred,2,0,0
+2014-08-05 15:53,France,Teacher,25-34,NA,Referred,10,0,0
+2014-08-16 20:24,United States,Teacher,35-44,NA,Referred,2,0,0
+2014-09-02 21:38,United States,Teacher,45-54,NA,Referred,10,0,0
+2014-09-05 20:28,United States,Teacher,55-64,NA,Referred,3,0,0
+2014-09-10 09:35,United States,Teacher,18-24,NA,Referred,4,0,0
+2014-09-10 10:43,United States,Teacher,25-34,NA,Referred,1,0,0
+2014-08-25 20:09,United States,Teacher,55-64,NA,Self Referred,6,0,0
+2014-07-28 23:48,United States,Teacher,55-64,NA,Social,6,0,0
+2014-07-30 22:07,United States,Teacher,18-24,NA,Social,3,0,0
+2014-08-23 09:38,United States,Teacher,25-34,NA,Social,4,0,0
+2014-08-30 01:41,United States,Teacher,35-44,NA,Social,1,0,0
+2014-09-01 11:06,United States,Teacher,45-54,NA,Social,2,0,0
+2014-09-03 00:01,United States,Teacher,55-64,NA,Social,1,0,0
+2014-07-28 20:31,Canada,Teacher,45-54,NA,Unbranded Search,7,0,0
+2014-07-28 23:26,United States,Teacher,55-64,NA,Unbranded Search,5,0,0
+2014-07-29 19:16,United States,Teacher,18-24,NA,Unbranded Search,4,0,0
+2014-07-31 01:42,United States,Teacher,25-34,NA,Unbranded Search,12,0,0
+2014-07-31 09:07,United States,Teacher,35-44,NA,Unbranded Search,7,0,0
+2014-07-31 17:24,United States,Teacher,45-54,NA,Unbranded Search,9,0,0
+2014-08-02 17:13,United States,Teacher,55-64,NA,Unbranded Search,2,0,0
+2014-08-02 22:18,United States,Teacher,18-24,NA,Unbranded Search,8,0,0
+2014-08-03 00:22,United States,Teacher,25-34,NA,Unbranded Search,11,0,0
+2014-08-04 19:35,United States,Teacher,35-44,NA,Unbranded Search,6,0,0
+2014-08-04 21:26,Australia,Teacher,45-54,NA,Unbranded Search,1,0,0
+2014-08-05 17:40,United States,Teacher,55-64,NA,Unbranded Search,6,0,0
+2014-08-06 13:08,United States,Teacher,18-24,NA,Unbranded Search,3,0,0
+2014-08-06 15:33,United States,Teacher,25-34,NA,Unbranded Search,9,0,0
+2014-08-06 16:32,United States,Teacher,35-44,NA,Unbranded Search,12,0,0
+2014-08-06 23:27,United States,Teacher,45-54,NA,Unbranded Search,3,0,0
+2014-08-08 16:26,United States,Teacher,55-64,NA,Unbranded Search,12,0,0
+2014-08-09 11:36,United States,Teacher,18-24,NA,Unbranded Search,3,0,0
+2014-08-09 18:54,United States,Teacher,25-34,NA,Unbranded Search,2,0,0
+2014-08-09 22:15,United States,Teacher,35-44,NA,Unbranded Search,5,0,0
+2014-08-11 05:40,Australia,Teacher,45-54,NA,Unbranded Search,10,0,0
+2014-08-12 22:20,United States,Teacher,55-64,NA,Unbranded Search,12,0,0
+2014-08-13 19:07,United States,Teacher,18-24,NA,Unbranded Search,10,0,0
+2014-08-13 22:57,United States,Teacher,25-34,NA,Unbranded Search,3,0,0
+2014-08-14 18:36,United States,Teacher,35-44,NA,Unbranded Search,2,0,0
+2014-08-15 04:52,United States,Teacher,45-54,NA,Unbranded Search,4,0,0
+2014-08-15 14:14,United States,Teacher,55-64,NA,Unbranded Search,11,0,0
+2014-08-16 12:14,United States,Teacher,18-24,NA,Unbranded Search,4,0,0
+2014-08-18 07:44,United States,Teacher,25-34,NA,Unbranded Search,8,0,0
+2014-08-18 14:11,United States,Teacher,35-44,NA,Unbranded Search,8,1,119.58
+2014-08-19 20:59,United States,Teacher,45-54,NA,Unbranded Search,1,0,0
+2014-08-19 23:03,United States,Teacher,55-64,NA,Unbranded Search,11,0,0
+2014-08-20 11:08,United States,Teacher,18-24,NA,Unbranded Search,5,0,0
+2014-08-20 15:14,United States,Teacher,25-34,NA,Unbranded Search,12,0,0
+2014-08-20 18:58,Australia,Teacher,35-44,NA,Unbranded Search,6,0,0
+2014-08-20 21:38,United States,Teacher,45-54,NA,Unbranded Search,4,0,0
+2014-08-21 03:51,Malaysia,Teacher,55-64,NA,Unbranded Search,3,0,0
+2014-08-21 18:15,United States,Teacher,18-24,NA,Unbranded Search,4,0,0
+2014-08-21 22:52,Australia,Teacher,25-34,NA,Unbranded Search,1,0,0
+2014-08-22 08:56,United States,Teacher,35-44,NA,Unbranded Search,1,0,0
+2014-08-22 10:48,United States,Teacher,45-54,NA,Unbranded Search,1,0,0
+2014-08-22 15:41,United States,Teacher,55-64,NA,Unbranded Search,6,0,0
+2014-08-24 10:12,United States,Teacher,18-24,NA,Unbranded Search,10,0,0
+2014-08-24 13:36,United States,Teacher,25-34,NA,Unbranded Search,1,0,0
+2014-08-24 15:51,United States,Teacher,35-44,NA,Unbranded Search,2,0,0
+2014-08-24 21:51,United States,Teacher,45-54,NA,Unbranded Search,5,0,0
+2014-08-25 04:11,United States,Teacher,55-64,NA,Unbranded Search,1,0,0
+2014-08-25 15:33,United States,Teacher,18-24,NA,Unbranded Search,11,0,0
+2014-08-25 22:05,United States,Teacher,25-34,NA,Unbranded Search,1,0,0
+2014-08-26 22:30,United States,Teacher,35-44,NA,Unbranded Search,10,0,0
+2014-08-26 22:43,United States,Teacher,45-54,NA,Unbranded Search,11,0,0
+2014-08-27 15:56,United States,Teacher,55-64,NA,Unbranded Search,11,0,0
+2014-08-27 19:44,United States,Teacher,18-24,NA,Unbranded Search,7,0,0
+2014-08-27 22:59,United States,Teacher,25-34,NA,Unbranded Search,4,0,0
+2014-08-28 06:37,United States,Teacher,35-44,NA,Unbranded Search,10,0,0
+2014-08-28 13:06,United States,Teacher,45-54,NA,Unbranded Search,5,0,0
+2014-08-29 09:42,United States,Teacher,55-64,NA,Unbranded Search,12,0,0
+2014-08-29 10:52,United States,Teacher,18-24,NA,Unbranded Search,3,0,0
+2014-08-29 11:39,United States,Teacher,25-34,NA,Unbranded Search,11,0,0
+2014-08-29 15:12,United States,Teacher,35-44,NA,Unbranded Search,12,0,0
+2014-08-29 23:29,United States,Teacher,45-54,NA,Unbranded Search,5,0,0
+2014-08-31 00:37,Australia,Teacher,55-64,NA,Unbranded Search,12,0,0
+2014-08-31 01:32,United States,Teacher,18-24,NA,Unbranded Search,10,0,0
+2014-08-31 17:36,United States,Teacher,25-34,NA,Unbranded Search,10,0,0
+2014-08-31 19:55,United States,Teacher,35-44,NA,Unbranded Search,12,0,0
+2014-09-01 13:59,Canada,Teacher,45-54,NA,Unbranded Search,4,0,0
+2014-09-01 16:35,United States,Teacher,55-64,NA,Unbranded Search,9,0,0
+2014-09-02 15:19,United States,Teacher,18-24,NA,Unbranded Search,7,0,0
+2014-09-02 18:10,United States,Teacher,25-34,NA,Unbranded Search,8,0,0
+2014-09-03 13:26,United States,Teacher,35-44,NA,Unbranded Search,10,0,0
+2014-09-03 13:51,United States,Teacher,45-54,NA,Unbranded Search,12,0,0
+2014-09-03 22:05,United States,Teacher,55-64,NA,Unbranded Search,5,0,0
+2014-09-04 10:04,United States,Teacher,18-24,NA,Unbranded Search,12,0,0
+2014-09-04 10:18,United States,Teacher,25-34,NA,Unbranded Search,11,0,0
+2014-09-04 19:10,United States,Teacher,35-44,NA,Unbranded Search,2,0,0
+2014-09-04 22:07,United States,Teacher,45-54,NA,Unbranded Search,12,0,0
+2014-09-05 10:30,United States,Teacher,55-64,NA,Unbranded Search,11,0,0
+2014-09-05 13:28,United States,Teacher,18-24,NA,Unbranded Search,2,0,0
+2014-09-05 14:05,United States,Teacher,25-34,NA,Unbranded Search,4,0,0
+2014-09-06 19:38,United States,Teacher,35-44,NA,Unbranded Search,6,0,0
+2014-09-08 10:02,United States,Teacher,45-54,NA,Unbranded Search,11,0,0
+2014-09-08 16:07,United States,Teacher,55-64,NA,Unbranded Search,4,0,0
+2014-09-09 14:20,United States,Teacher,18-24,NA,Unbranded Search,2,0,0
+2014-09-09 15:43,Canada,Teacher,25-34,NA,Unbranded Search,11,0,0
+2014-09-09 18:10,United States,Teacher,35-44,NA,Unbranded Search,2,0,0
+2014-09-10 00:47,United States,Teacher,45-54,NA,Unbranded Search,11,0,0
+2014-09-10 08:50,United States,Teacher,55-64,NA,Unbranded Search,3,0,0
+2014-09-10 10:25,United States,Teacher,18-24,NA,Unbranded Search,2,0,0
+2014-09-10 10:41,United States,Teacher,25-34,NA,Unbranded Search,4,0,0
+2014-09-10 11:45,United States,Teacher,35-44,NA,Unbranded Search,10,0,0
+2014-09-10 12:09,United States,Teacher,45-54,NA,Unbranded Search,5,0,0
+2014-09-10 14:55,Canada,Teacher,55-64,NA,Unbranded Search,2,0,0
+2014-09-10 15:08,United States,Teacher,18-24,NA,Unbranded Search,4,0,0
+2014-09-10 20:17,United States,Teacher,25-34,NA,Unbranded Search,10,0,0
+2014-09-10 20:56,United States,Teacher,35-44,NA,Unbranded Search,3,0,0
+2014-08-25 22:27,United States,Teacher,45-54,NA,Unbranded Search,3,0,0
